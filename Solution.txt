@@ -1,0 +1,161 @@
+ 1048  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+ 1049  cd command-line-murder-mystery/
+ 1050  ls
+ 1051  cat instructions 
+ 1052  cd mystery/
+ 1053  ls
+ 1054  cat crimescene 
+ 1055  cat crimescene grep CLUE
+ 1056  cat crimescene grep "CLUE"
+ 1057  cat crimescene grep
+ 1058  cat crimescene >> grep CLUE
+ 1059  cat crimescene >> grep "CLUE'
+ 1060  cat crimescene >> grep "CLUE'
+ 1061  cat crimescene >> grep "CLUE'
+ 1062  cat crimescene >> grep "CLUE'
+ 1063  CD
+ 1064  cd
+ 1065  cd
+ 1066  asdfasd
+ 1067  cat crimescene >> grep "CLUE'
+ 1068  CD
+ 1069  cd
+ 1070  cd
+ 1071  asdfasd
+ 1072  gra
+ 1073  $cd
+ 1074  ls
+ 1075  cd
+ 1076  cd Documents/
+ 1077  cd School/
+ 1078  cd Homework/
+ 1079  cd command-line-murder-mystery/
+ 1080  cd
+ 1081  ls
+ 1082  cd
+ 1083  cd Documents/School/Homework/command-line-murder-mystery
+ 1084  /ls
+ 1085  ls
+ 1086  cd mystery/
+ 1087  ls
+ 1088  grp crimescene CLUE
+ 1089  grep crimescene CLUE
+ 1090  ls
+ 1091  grep "CLUE" crimescene
+ 1092  cat people
+ 1093  grep "Annabel" crimescene
+ 1094  grep "Annabel" people 
+ 1095  la
+ 1096  ls
+ 1097  cd streets/
+ 1098  ls
+ 1099  head -n 40 streets/Hart_Place | tail -n 1
+ 1100  cd ..
+ 1101  head -n 40 streets/Hart_Place | tail -n 1
+ 1102  cat interviews/interview-47246024 
+ 1103  head -n 179 streets/Buckingham_Place | tail -n 1
+ 1104  cat interviews/interview-699607 
+ 1105  grep "CLUE" crimescene
+ 1106  head -n 20 vehicles 
+ 1107  grep "Honda" vehicles 
+ 1108  grep "honda blue'
+ 1109  grep "honda blue'
+ 1110  asdfasdf
+ 1111  dcasd
+ 1112  asdf
+ 1113  sd
+ 1114  /history
+ 1115  history
+ 1116  asdf
+ 1117  asdfasdf
+ 1118  asdf
+ 1119  asdf
+ 1120  asf
+ 1121  asdf
+ 1122  asdf
+ 1123  asdf
+ 1124  ~asdf
+ 1125  asdf
+ 1126  asdf
+ 1127  asdf
+ 1128  asdfasdf
+ 1129  sd
+ 1130  2
+ 1131  sd Documents/School/Homework/
+ 1132  ls[A
+ 1133  sd Documents/School/Homework
+ 1134  cd Documents/School/Homework
+ 1135  ls
+ 1136  cd command-line-murder-mystery/
+ 1137  ls
+ 1138  cd mystery
+ 1139  ls
+ 1140  cat crimescene
+ 1141  history
+ 1142  cat memberships/
+ 1143  cat crimescene 
+ 1144  head -n 20 memberships/
+ 1145  head -n 20 memberships
+ 1146  grep 'CLUE' crimescene 
+ 1147  grep 'Annabel" people 
+ 1148  grep 'Annabel" people 
+ 1149  cd Documents/School/Homework
+ 1150  cd command-line-murder-mystery/
+ 1151  ls
+ 1152  cd mystery
+ 1153  grep 'Annabel' people 
+ 1154  cd interviews/
+ 1155  sd..
+ 1156  sd ..
+ 1157  cd ..
+ 1158  cd streets/
+ 1159  head -n 179 Buckingham_Place | tail -n1
+ 1160  cd ..
+ 1161  head -n interviews/interview-6699607
+ 1162  cd interviews/
+ 1163  cat interview-699607 
+ 1164  cd ..
+ 1165  grep -A 5 "L337" vehicles 
+ 1166  cd memberships/
+ 1167  cat AAA Delta_SkyMiles library.txt Museum_of_Bash_History |grep "Mike Bostock"
+ 1168  cat AAA Delta_SkyMiles library.txt Museum_of_Bash_History |grep -c  "Mike Bostock"
+ 1169  cat AAA Delta_SkyMiles library.txt Museum_of_Bash_History |grep -c  "Erika Owens"
+ 1170  cat AAA Delta_SkyMiles library.txt Museum_of_Bash_History |grep -c  "Joe Germuska"
+ 1171  cat AAA Delta_SkyMiles library.txt Museum_of_Bash_History |grep -c  "Jeremey Bowers"
+ 1172  cat AAA Delta_SkyMiles library.txt Museum_of_Bash_History |grep -c  "Jacquii Maher"
+ 1173  cat AAA Delta_SkyMiles library.txt Museum_of_Bash_History |grep -c  "Jacqui Maher"
+ 1174  cd ..
+ 1175  ls
+ 1176  grep "Mike Bostock" people
+ 1177  ls
+ 1178  cd streets/
+ 1179  head -n 287 Senders_Court | tail -n 1
+ 1180  ls
+ 1181  cd ..
+ 1182  cd interviews/
+ 1183  cat interview-290346 
+ 1184  cd ..
+ 1185  grep "Jacqui Maher" people 
+ 1186  cd streets/
+ 1187  head -n 224 Andover Road | tail -n 1
+ 1188  head -n 224 Andover_Road | tail -n 1
+ 1189  cd ..
+ 1190  cd interviews/
+ 1191  cat interview-904020 
+ 1192  cd
+ 1193  cd Documents/School/Homework/command-line-murder-mystery/mystery/
+ 1194  grep "Erika Owens" people 
+ 1195  cd streets/
+ 1196  head -n 98 Trapelo_Street | tail -n 1
+ 1197  cd
+ 1198  cd Documents/School/Homework/command-line-murder-mystery/mystery/
+ 1199  ls
+ 1200  cd interviews/
+ 1201  cat interview-5455315 
+ 1202  cd ..
+ 1203  ls -a
+ 1204  cd interviews/
+ 1205  ls -a
+ 1206  cd ..
+ 1207  history
+Mike Bostock
