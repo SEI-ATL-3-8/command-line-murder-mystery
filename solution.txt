@@ -1,0 +1,59 @@
+228  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  229  ls
+  230  ls -l
+  231  cd command-line-murder-mystery
+  232  ls
+  233  cat instructions
+  234  code instructions
+  235  code .
+  236  git checkout -b bens-branch
+  237  ls
+  238  touch solution.txt
+  239  history
+  240  ls
+  241  cd mystery
+  242  ls
+  243  ls -la
+  244  cat crimescene
+  245  grep "CLUE" crimescene
+  246  ls
+  247  head -n 20 people
+  248  grep -i "annabel" people
+  249  cd streets
+  250  ls
+  251  cat Hart_Place
+  252  cd ..
+  253  head -n 20 vehicles
+  254  grep -i "annabel" vehicles
+  255  grep -i "annabel" people
+  256  ls
+  257  head -n 173 streets/Mattapan_Street | tail -n 1
+  258  head -n 40 streets/Hart_Place | tail -n 1
+  259  head -n 179 streets/Buckingham_Place | tail -n 1
+  260  head -n 176 streets/Haley_Street | tail -n 1
+  261  cd interviews
+  262  ls
+  263  cat interview-9437737
+  264  cat interview-47246024
+  265  cat interview-699607
+  266  cat interview-8718
+  267  cat interview-871877
+  268  cd ..
+  269  ls
+  270  grep "L337" vehicles
+  271  head -n 10 vehicles
+  272  grep -A 5  "L337" vehicles
+  273  ls
+  274  cd memberships
+  275  ls
+  276  cat Fitness_Galaxy AAA United_MileagePlus | grep "Jacqui Maher"
+  277  cat Fitness_Galaxy AAA United_MileagePlus | grep "Jeremy Bowers"
+  278  cat Fitness_Galaxy AAA United_MileagePlus | grep "Joe Germuska"
+  279  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Joe Germuska"
+  280  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep -c  "Joe Germuska"
+  281  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Joe Germuska" | wc -l
+  282  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jacqui Maher"
+  283  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jeremy Bowers"
+  284  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Erika Owens"
+
+Jeremy Bowers is the culprit!
