@@ -1,0 +1,386 @@
+1.   127  touch solution.txt
+  128  ls
+  129  cd mystery
+  130  ls
+  131  cat crimescene
+  132  start crimescene
+  133  cat crimescene | grep "test"
+  134  cat crimescene
+  135  cat crimescene | grep "CLUE"
+  136  ls
+  137  cat people
+  138  cat people | grep "Annabel"
+  139  ls
+  140  cd memberships
+  141  ls
+  142  cat AAA
+  143  cat AAA | grep "Annabel"
+  144  cat people | grep "Annabel"
+  145  cd ..
+  146  cat people | grep "Annabel"
+  147  ls
+  148  cd memberships/
+  149  cat library.txt | grep "Annabel"
+  150  ls
+  151  cat museum.txt | grep "Annabel"
+  152  cat Delta_SkyMiles | grep "Annabel"
+  153  cat Museum_of_Bash_History | grep "Annabel"
+  154  cat AAdvantage | grep "Annabel"
+  155  cd ..
+  156  ls
+  157  cd ..
+  158  ls
+  159  echo > solution.txt "Annabel Church"
+  160  ls
+  161  cd mystery
+  162  ls
+  163  cat vehicles | grep "Annabel"
+  164  cat vehicles
+  165  cat vehicles | grep -C 3 "Annabel"
+  166  cd ..
+  167  ls
+  168  cd mystery
+  169  ls
+  170  cd interviews
+  171  ls
+  172  cat crimescene
+  173  cd ..
+  174  cat crimescene
+  175  cat crimescene | grep "CLUE"
+  176  ls
+  177  echo > "minmum 6ft, memberships: AAA, Delta skylines, local library, museum of bash. Name on latte: Annabel. Blond Spikey hair and NZ accent"
+  178  echo "minmum 6ft, memberships: AAA, Delta skylines, local library, museum of bash. Name on latte: Annabel. Blond Spikey hair and NZ accent" > ../solution.txt
+  179  ls
+  180  cat people
+  181  ls
+  182  ls
+  183  cd interviews
+  184  ls
+  185  cat interview-000296
+  186  cd ..
+  187  cat interviews
+  188  ls
+  189  cd streets
+  190  ls
+  191  cat people
+  192  cd ..
+  193  cat people
+  194  ls
+  195  cat crimescene "Annabel"
+  196  cat crimescene | grep "Annabel"
+  197  cat crimescene | grep "spiky hair"
+  198  ls
+  199  cd interviews
+  200  ls
+  201  cat *
+  202  cat * | grep "Annabel"
+  203  cat * | grep "blond"
+  204  cat * | grep "spiky"
+  205  ls
+  206  cat interview-00296 | grep "blond"
+  207  cat interview-000296 | grep "blond
+  208  "
+  209  cat interview-1310392
+  210  cd ..
+  211  ls
+  212  cd memberships
+  213  ls
+  214  cat 1.txt
+  215  ls
+  216  cat AAA
+  217  cd ..
+  218  ls
+  219  cd memberships
+  220  ls
+  221  cat Delta_SkyMiles
+  222  ls
+  223  cd ..
+  224  ls
+  225  cat cehicales
+  226  cat vehicles
+  227  cat vehicles | grep -C 4 "6'"
+  228  ls
+  229  touch abovesix.txt
+  230  cat vehicles | grep -C 4 "6'" > abovesix.txt
+  231  ls abovesix.txt
+  232  cat abovesix.txt
+  233  cat abovesix | grep "Annabel"
+  234  cat abovesix.txt | grep "Annabel"
+  235  ls
+  236  cd ..
+  237  ls
+  238  cat solution.txt
+  239  cd memberships
+  240  ls
+  241  cd mystery
+  242  ls
+  243  cd memberships
+  244  ls
+  245  cat 2.txt
+  246  ls
+  247  cat Delta_SkyMiles
+  248  lls
+  249  ls
+  250  cat delta
+  251  cat delta.txt
+  252  cat delta.txt | grep "Annabel"
+  253  ls
+  254  cat newfile.txt
+  255  ls
+  256  cat AAdvantage
+  257  ls
+  258  cat library.txt
+  259  ls
+  260  ls
+  261  cd ..
+  262  ls
+  263  cd ..
+  264  ls
+  265  cat hint 3
+  266  cat hint3
+  267  cd mystery
+  268  ls
+  269  head people
+  270  cat people | grep "Annabel"
+  271  ls
+  272  cd streets
+  273  ls
+  274  cat Buckingham_Place
+  275  git blame 179
+  276  ls
+  277  cat Buckingham_Place
+  278  git blame 179
+  279  git blame -L 179
+  280  cat Buckingham_Place git-diff 179
+  281  cd ..
+  282  ls
+  283  cd interviews
+  284  ls
+  285  cat interview-699607
+  286  ls
+  287  cd ..
+  288  ls
+  289  mv abovesix.txt info.txt
+  290  ls
+  291  echo "Blue honda. License: L337 ends with 9" >> info.txt
+  292  cat info.txt
+  293  cat info.txt | grep "color: Blue"
+  294  cat info.txt | grep "L337"
+  295  cat info.txt | grep "L337" -C 4
+  296  cat info.txt | grep "L337" -C 3 > info.txt
+  297  echo "Honda" >> info.txt
+  298  cat info.txt
+  299  cat info.txt | grep "L337" -C 3 > info.txt
+  300  cat info.txt
+  301  cat info.txt | grep "L337" > info.txt
+  302  cat info.txt
+  303  ls
+  304  cat vehicles | grep "L337" -C 3
+  305  cat vehicles | grep "L337" -C 3 > info.txt
+  306  cat info.txt
+  307  cat info.txt | grep "Honda"
+  308  ls
+  309  cat vehicles
+  310  cat vehicles | grep "L337" -A 5 > info.txt
+  311  cat info.txt
+  312  cat info.txt | grep "Honda" -A 4 > info.txt
+  313  cat info.txt
+  314  touch carinfo.txt
+  315  cat vehicles | grep "L337" -A 5 > info.txt
+  316  cat info.txt
+  317  cat info.txt | grep "Honda" -A 3 > carinfo.txt
+  318  cat info.txt
+  319  cat carinfo.txt
+  320  cat carinfo.txt | grep "Blue" -A 2 > info.txt
+  321  cat info.txt
+  322  cat info.txt
+  323  cat carinfo.txt
+  324  cat info.txt | grep "6'" -B 2 > carinfo.txt
+  325  cat carinfo.txt
+  326  ls
+  327  cd memberships
+  328  ls
+  329  cat AAA | grep "Joe"
+  330  cat Delta_skyMiles | grep "Joe"
+  331  cat Delta_skyMiles | grep "Erika"
+  332  cat Delta_skyMiles | grep "Jeremy"
+  333  cat AAA | grep "Jeremy"
+  334  cat Museum_of_Bash_History | grep "Jeremy"
+  335  cat Terminal_City_Library | grep "Jeremy"
+  336  ls
+  337  cd ..
+  338  ls
+  339  echo "Jeremy Bowers Has: Blue, honda. Matching L337 plate. and all memberships to the cards found in the wallet." > info.txt
+  340  ls
+  341  cat people | grep "Jeremy"
+  342  ls
+  343  cd streets
+  344  ls
+  345  cd Dunstable_Road
+  346  cat Dunstable_road
+  347  ls
+  348  cd ..
+  349  ls
+  350  cd interviews
+  351  ls
+  352  cat interview-9620713
+  353  ls
+  354  cd ..
+  355  ls
+  356  echo "Jeremy is not at home neighbors say left for trip" >> info.txt
+  357  ls
+  358  cat carinfo.txt
+  359  cd memberships
+  360  ls
+  361  cat Museum_of_Bash_History | grep "Jacqui"
+  362  cat AAA | grep "
+  363  Jacqui"
+  364  cat AAA | grep "Jacqui"
+  365  ls
+  366  cd ../..
+  367  ls
+  368  history
+  369  echo >   437  ls
+  370    438  cd mystery
+  371    439  ls
+  372    440  cat crimescene
+  373    441  start crimescene
+  374    442  cat crimescene | grep "test"
+  375    443  cat crimescene
+  376    444  cat crimescene | grep "CLUE"
+  377    445  ls
+  378    446  cat people
+  379    447  cat people | grep "Annabel"
+  380    448  ls
+  381    449  cd memberships
+  382    450  ls
+  383    451  cat AAA
+  384    452  cat AAA | grep "Annabel"
+  385    453  cat people | grep "Annabel"
+  386    454  cd ..
+  387    455  cat people | grep "Annabel"
+  388    456  ls
+  389    457  cd memberships/
+  390    458  cat library.txt | grep "Annabel"
+  391    459  ls
+  392    460  cat museum.txt | grep "Annabel"
+  393    461  cat Delta_SkyMiles | grep "Annabel"
+  394    462  cat Museum_of_Bash_History | grep "Annabel"
+  395    463  cat AAdvantage | grep "Annabel"
+  396    464  cd ..
+  397    465  ls
+  398    466  cd ..
+  399    467  ls
+  400    468  echo > solution.txt "Annabel Church"
+  401    469  ls
+  402    470  cd mystery
+  403    471  ls
+  404    472  cat vehicles | grep "Annabel"
+  405    473  cat vehicles
+  406    474  cat vehicles | grep -C 3 "Annabel"
+  407    475  cd ..
+  408    476  ls
+  409    477  cd mystery
+  410    478  ls
+  411    479  cd interviews
+  412    480  ls
+  413    481  cat crimescene
+  414    482  cd ..
+  415    483  cat crimescene
+  416    484  cat crimescene | grep "CLUE"
+  417    485  ls
+  418    486  echo > "minmum 6ft, memberships: AAA, Delta skylines, local library, museum of bash. Name on latte: Annabel. Blond Spikey hair and NZ accent"
+  419    487  echo "minmum 6ft, memberships: AAA, Delta skylines, local library, museum of bash. Name on latte: Annabel. Blond Spikey hair and NZ accent" > ../solution.txt
+  420    488  ls
+  421    489  cat people
+  422    490  ls
+  423    491  ls
+  424    492  cd interviews
+  425    493  ls
+  426    494  cat interview-000296
+  427    495  cd ..
+  428    496  cat interviews
+  429    497  ls
+  430    498  cd streets
+  431    499  ls
+  432    500  cat people
+  433    501  cd ..
+  434    502  cat people
+  435    503  ls
+  436    504  cat crimescene "Annabel"
+  437    505  cat crimescene | grep "Annabel"
+  438    506  cat crimescene | grep "spiky hair"
+  439    507  ls
+  440    508  cd interviews
+  441    509  ls
+  442    510  cat *
+  443    511  cat * | grep "Annabel"
+  444    512  cat * | grep "blond"
+  445    513  cat * | grep "spiky"
+  446    514  ls
+  447    515  cat interview-00296 | grep "blond"
+  448    516  cat interview-000296 | grep "blond
+  449  "
+  450    517  cat interview-1310392
+  451    518  cd ..
+  452    519  ls
+  453    520  cd memberships
+  454    521  ls
+  455    522  cat 1.txt
+  456    523  ls
+  457    524  cat AAA
+  458    525  cd ..
+  459    526  ls
+  460    527  cd memberships
+  461    528  ls
+  462    529  cat Delta_SkyMiles
+  463    530  ls
+  464    531  cd ..
+  465    532  ls
+  466    533  cat cehicales
+  467    534  cat vehicles
+  468    535  cat vehicles | grep -C 4 "6'"
+  469    536  ls
+  470    537  touch abovesix.txt
+  471    538  cat vehicles | grep -C 4 "6'" > abovesix.txt
+  472    539  ls abovesix.txt
+  473    540  cat abovesix.txt
+  474    541  cat abovesix | grep "Annabel"
+  475    542  cat abovesix.txt | grep "Annabel"
+  476    543  ls
+  477    544  cd ..
+  478    545  ls
+  479    546  cat solution.txt
+  480    547  cd memberships
+  481    548  ls
+  482    549  cd mystery
+  483    550  ls
+  484    551  cd memberships
+  485    552  ls
+  486    553  cat 2.txt
+  487    554  ls
+  488    555  cat Delta_SkyMiles
+  489    556  lls
+  490    557  ls
+  491    558  cat delta
+  492    559  cat delta.txt
+  493    560  cat delta.txt | grep "Annabel"
+  494    561  ls
+  495    562  cat newfile.txt
+  496    563  ls
+  497    564  cat AAdvantage
+  498    565  ls
+  499    566  cat library.txt
+  500    567  ls
+  501  ls
+  502  cd desktop
+  503  ls
+  504  cd GA-study
+  505  ls
+  506  cd homework
+  507  ls
+  508  cd command-line-murder-mystery/
+  509  ls
+
+
+2. Jeremy Bowers
