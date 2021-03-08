@@ -1,0 +1,177 @@
+  413  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  414  ls
+  415  cd command-line-murder-mystery/
+  416  ls
+  417  git checkout -b joe-galante
+  418  ls
+  419  cat instructions
+  420  ls
+  421  cd mystery/
+  422  ls
+  423  ls -a
+  424  cat crimescene
+  425  ls
+  426  cd interviews/
+  427  ls
+  428  cd ../streets/
+  429  ls
+  430  cd ..
+  431  ls
+  432  cd memberships/
+  433  ls
+  434  cd ..
+  435  cat people
+  436  cd ..
+  437  ls -a
+  438  cat instructions
+  439  cd mystery/
+  440  cat crimescene | grep CLUE
+  441  ls
+  442  cat people
+  443  cat people | grep Anaabel
+  444  cat people | grep Annabel
+  445  cat crimescene | grep CLUE
+  446  ls
+  447  cd memberships/
+  448  ls | grep AAA
+  449  cat AAA
+  450  cat AAA | grep Annabel
+  451  cd ..
+  452  cat crimescene | grep CLUE
+  453  cd memberships/
+  454  cat Delta_SkyMiles | grep Annabel
+  455  ls | grep library
+  456  cat library.txt
+  457  cat library.txt | grep Annabel
+  458  ls | grep delta
+  459  ls | grep Delta
+  460  cat Delta_SkyMiles
+  461  cat library.txt
+  462  cat Delta_SkyMiles | grep Annabel
+  463  cat Delta_SkyMiles | grep Anabel
+  464  cat library.txt | grep Anabel
+  465  cat library.txt | grep Annabel
+  466  cd..
+  467  cd ..
+  468  cat crimescene | grep CLUE
+  469  cd memberships/
+  470  ls | grep museum
+  471  ls | grep bash
+  472  cat Museum_of_Bash_History | grep Annabel
+  473  cd ..
+  474  cat people | grep Annabel
+  475  ls
+  476  cd memberships/
+  477  ls | grep library
+  478  cat library.txt | grep Annabel
+  479  cd ..
+  480  ls
+  481  cd streets/
+  482  ls | grep Buck
+  483  cat Buckingham_Place
+  484  clear
+  485  ls -a
+  486  clear
+  487  cd ..
+  488  ls -a
+  489  cd memberships/
+  490  ls -a
+  491  cat Terminal_City_Library | grep Annabel
+  492  cat Terminal_City_Library | grep Anabel
+  493  cat Terminal_City_Library
+  494  clear
+  495  cat Terminal_City_Library | grep Church
+  496  cat Terminal_City_Library | grep Annabel
+  497  ls -a
+  498  cat delta.txt
+  499  cat delta.txt | grep Annabel
+  500  cat Delta_SkyMiles | grep Annabel
+  501  clear
+  502  cd ..
+  503  ls
+  504  cat vehicles
+  505  cat vehicles | grep Annabel
+  506  cat vehicles | grep 6'
+
+
+  507  cat vehicles | grep 6
+  508  clear
+  509  cat vehicles
+  510  cat vehicles | grep Annabel
+  511  cat vehicles | grep 'Height: 6''
+'
+  512  cd interviews/
+  513  ls | grep Annabel
+  514  cd ..
+  515  cat crimescene | grep Annabel
+  516  cat crimescene | grep CLUE
+  517  cat people
+  518  cat people | Annabel
+  519  cat people | grep Annabel
+  520  cat crimescene | grep CLUE
+  521  cd memberships/
+  522  ls -a
+  523  cat AAA | grep no
+  524  cd ..
+  525  cd interviews/
+  526  ls -a
+  527  cat interview-0000296
+  528  cat interview-000296
+  529  cd..
+  530  cd ..
+  531  clear
+  532  cat people | grep Annabel
+  533  cd streets/
+  534  ls | grep Hart_Place
+  535  cat Hart_Place
+  536  cat Hart_Place | awk 'NR==5'
+  537  cat Hart_Place | awk 'NR==40'
+  538  cd ..
+  539  cd interviews/
+  540  cat interview-47246024
+  541  cd ../streets/
+  542  cd ..
+  543  cat people | grep Annabel
+  544  cd streets/
+  545  cat Mattapan_Street | awk 'NR==173'
+  546  cat Buckingham_Place | awk 'NR==179'
+  547  cat Haley_Street | awk 'NR==176'
+  548  cd ../interviews/
+  549  cat interview-9437737
+  550  cat interview-699607
+  551  cd ..
+  552  cat vehicles | grep L337
+  553  cat vehicles | grep Honda
+  554  cat vehicles | grep L337
+  555  cat people | grep Owens
+  556  cat people | grep Joe
+  557  cat people | grep Germuska
+  558  cat people | grep Owens
+  559  cat people | grep Bowers
+  560  cat people | grep Maher
+  561  cd streets/
+  562  cat Plainfield_Street | awk 'NR==275'
+  563  cat Trapelo_Street | awk 'NR==98'
+  564  cat Dunstable_Road | awk 'NR==284'
+  565  cat Andover_Road | awk 'NR==224'
+  566  cd ../interviews/
+  567  cat interview-29741223
+  568  cat interview-5455315
+  569  cat interview-9620713
+  570  cat interview-904020
+  571  cd ..
+  572  ls
+  573  cd memberships/
+  574  cat AAA | grep Bowers
+  575  cat Delta_SkyMiles | grep Bowers
+  576  cat Terminal_City_Library | grep Bowers
+  577  cat Museum_of_Bash_History | grep Bowers
+  578  cd ..
+  579  ls
+  580  cd ..
+  581  ls -a
+  582  cat instructions
+  583  touch solution.txt
+  584  ls
+  585  history
+Jeremy Bowers
