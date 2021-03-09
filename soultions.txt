@@ -1,0 +1,372 @@
+    1  hello?
+    2  Where am I?
+    3  ls
+    4  ls -a
+    5  cd ..
+    6  pwd
+    7  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+    8  git
+    9  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   10  brew doctor 
+   11  brew doctor
+   12  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/savan/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+   13  which brew
+   14  brew doctor 
+   15  xcode-select --install
+   16  xcode-select --version
+   17  brew install --cask iterm2
+   18  brew install zsh
+   19  chsh -s /bin/zsh
+   20  echo $SHELL
+   21  echo $SHELL
+   22  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   23  brew install git
+   24  git --version
+   25  brew upgrade git
+   26  git --version
+   27  brew install --cask visual-studio-code
+   28  code
+   29  code ~/.zshrc
+   30  ZSH_THEME="af-magic"
+   31  code ~/.zshrc
+   32  export EDITOR="code -w"
+   33  pwd
+   34  cd Library/
+   35  cd ..
+   36  pwd
+   37  cd mansion
+   38  cd intro_to_command_line-main
+   39  cd mansion
+   40  $cd
+   41  pwd
+   42  ls
+   43  cd downloads
+   44  ls
+   45  cd intro_to_command_line-main
+   46  ls
+   47  cd mansion
+   48  pwd
+   49  ls -la
+   50  cd entry_hall
+   51  ls -la
+   52  cd coat_closet
+   53  ls -la 
+   54  $touch new_coat.txt
+   55  touch new_coat.txt
+   56  ls
+   57  cd ..
+   58  cd east_wing
+   59  ls -la
+   60  cd dining_room
+   61  ls -la
+   62  rm sandwich.txt
+   63  cp chair2.txt
+   64  cp chair3.txt
+   65  ls
+   66  cp chair.txt chair1.txt
+   67  cp chair.txt chair2.txt
+   68  cp chair.txt chair3.txt
+   69  ls
+   70  cd..
+   71  ..
+   72  ls
+   73  cd guest_bedroom
+   74  ls -la
+   75  ..
+   76  ls
+   77  cd west_wing
+   78  ls -la
+   79  la
+   80  ls
+   81  ls -a
+   82  la la
+   83  la -la
+   84  cd master_bedroom
+   85  ls -la
+   86  mv mirror.txt smashed.mirror.txt
+   87  ls
+   88  mkdir cardboard_box.
+   89  ls
+   90  mv smashed.mirror.txt cardboard_box.
+   91  ls
+   92  cd ..
+   93  ls
+   94  cd ..
+   95  ls
+   96  cd west_wing
+   97  ls
+   98  cd master_bedroom
+   99  ls
+  100  ls -la
+  101  cd .secret_passage
+  102  ls -la
+  103  mv .family_heirloom.txt master_bedroom
+  104  ls
+  105  ls -la
+  106  mv master_bedroom
+  107  mv master_bedroom west_wing
+  108  ls
+  109  pwd
+  110  ls -la
+  111  cd..
+  112  cd ..
+  113  cd west_wing
+  114  sd master_bedroom
+  115  cd master_bedroom
+  116  ls
+  117  ls - la
+  118  ls -la
+  119  cd .secret_passage
+  120  ls - la
+  121  la -la
+  122  rm west_wing
+  123  cd ..
+  124  rm .secret_passage
+  125  cd ..
+  126  ls mansion
+  127  ls
+  128  ls mansion
+  129  cd mansion
+  130  cd west_wing
+  131  cd master_bedroom
+  132  touch family_herloom.txt
+  133  ls
+  134  mv family_herloom.txt 
+  135  touch intermediate.txt
+  136  ls
+  137  echo > this > intermediate.txt
+  138  cat. intermediate.txt
+  139  cat intermediate.txt
+  140  la
+  141  echo this >intermediate.txt
+  142  cat intermediate.txt
+  143  echo is just a test case >> intermediate.txt
+  144  cat intermediate.txt
+  145  echo this, is just a test case >> intermediate.txt
+  146  cat intermediate.txt
+  147  echo this is just a test case > intermediate.txt
+  148  cat intermediate.txt
+  149  cat intermediate.txt | grep this intermediate.txt
+  150  cat intermediate.txt |grep "test" intermediate.txt
+  151  cat intermediate.txt | grep test, this intermediate.txt
+  152  cat intermediate.txt | grep "this, test" intermediate.txt
+  153  cat intermediate.txt |grep this |grep test intermediate.txt
+  154  pwd
+  155  ls
+  156  cd Documents
+  157  ls
+  158  git checkout -b Sovan-Hong
+  159  git clone https://github.com/SEI-ATL-3-8/git-pull-request-practice-.git
+  160  ls
+  161  git checkout-b Sovan-Hong
+  162  checkout -b
+  163  ls
+  164  cd.. git-pull-request-practice-
+  165  ls
+  166  git checkout -b "Sovan-Hong"
+  167  touch Sovan-Hong.txt
+  168  ls
+  169  git status
+  170  git add 
+  171  cd git-pull-request-practice-
+  172  git checkout -b Sovan-Hong
+  173  touch sovan.hong.txt
+  174  ls
+  175  git status
+  176  git add
+  177  git add sovan.hong.txt
+  178  git status 
+  179  git commit -m "Hello"
+  180  git push origin Sovan-Hong
+  181  JaysonSovanHong
+  182  git push origin Sovan-Hong
+  183  dc..
+  184  ..
+  185  mkdir GACLasses GAHomework 
+  186  ls
+  187  cd git-pull-request-practice-
+  188  ls
+  189  cd Documents
+  190  ls
+  191  cd GAHomework
+  192  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  193  git checkout -b  Sovan.Hong
+  194  ls
+  195  cd
+  196  cd..
+  197  ..cd
+  198  ls
+  199  Documents
+  200  ls
+  201  GAHomework
+  202  ls
+  203  git checkout -b Sovan-Homework3-8
+  204  cd command-line-murder-mystery
+  205  git checkout -b SovanHongHW
+  206  ls
+  207  git status
+  208  cat instructions
+  209  cheatsheet.md
+  210  ls
+  211  pwd
+  212  cd mystery
+  213  ls
+  214  cd interviews
+  215  ls
+  216  cd..
+  217  cd ..
+  218  ls
+  219  cd memberships
+  220  ls
+  221  cd streets
+  222  cd ..
+  223  ls
+  224  cd streets
+  225  ls
+  226  cd ..
+  227  ls
+  228  cd .. 
+  229  ls
+  230  cd mystery
+  231  ls
+  232  cd interviews
+  233  cat interviews.txt| grep  "clue" interview-
+  234  cat interview- |grep 'clue' 
+  235  cat interview- | grep "clue" interview-
+  236  ls
+  237  cd ..
+  238  ls
+  239  grep "CLUE" crimescene 
+  240  cd ..
+  241  ls
+  242  cd ..
+  243  ls
+  244  cd command-line-murder-mystery
+  245  ls
+  246  cd mystery
+  247  ls
+  248  ls memberships
+  249  grep "Annabel" memberships
+  250  pwd
+  251  grep "Annabel" people
+  252  grip "Annabel" AAA
+  253  grep "Annabel" AAA
+  254  cd.. 
+  255  cd ..
+  256  ld
+  257  ls
+  258  cd mystery
+  259  ls
+  260  cd mem
+  261  cd memberships
+  262  LS
+  263  grep "Annabel" Delta_SkyMiles
+  264  ls
+  265  grep "Annabel" Delta_SkyMiles
+  266  grep "Annabel" Museum_of_Bash_History
+  267  grep "Annabel" AAA
+  268  cd ..
+  269  ls
+  270  cd ..
+  271  cd mystery
+  272  ls
+  273  cd memberships
+  274  ls
+  275  grep "Annabel" library.txt
+  276  grep "Annabel" Museum_of_Bash_History
+  277  grep "Annabel" Terminal_City_Library
+  278  cd ..
+  279  cd streets
+  280  ls
+  281  grep "Annabel" street
+  282  cs
+  283  cd
+  284  ls
+  285  cd Documents
+  286  ls
+  287  GAHomework
+  288  la
+  289  ls
+  290  cd command-line-murder-mystery
+  291  ls
+  292  grip hint2
+  293  cd ..
+  294  cd command-line-murder-mystery
+  295  ls
+  296  cd mystery
+  297  ls
+  298  cd ..
+  299  cl
+  300  cw
+  301  cl
+  302  sd
+  303  ls
+  304  cat hint1
+  305  cat hint2
+  306  cat hint3
+  307  cat hint4
+  308  cat hint5
+  309  ls
+  310  cd mystery
+  311  ls
+  312  grep "Annabel" people
+  313  grep "Annabel" streets
+  314  cd streets
+  315  ls
+  316  cd
+  317  ls
+  318  cd Documents
+  319  ls
+  320  cd GAHomework
+  321  ls
+  322  cd command-line-murder-mystery
+  323  ls
+  324  cat hint5
+  325  cat hint6
+  326  cat hint8
+  327  cat hint1
+  328  cat hint2
+  329  cat hint3
+  330  history
+  331  pwd
+  332  ls
+  333  cd mystery
+  334  ls
+  335  cd memberships
+  336  ls
+  337  grep "Annabel" memberships
+  338  grep "Annabel" AAA
+  339  grep "Annabel" Delta_SkyMiles
+  340  grep "Annabel" Delta.txt
+  341  grep "Annabel" Museum_of_Bash_History
+  342  ls
+  343  cd ..
+  344  ls
+  345  cd ..
+  346  ls
+  347  cat hint1
+  348  head -n 20 people
+  349  cd mystery
+  350  ls
+  351  head -n 20 people
+  352  ls
+  353  grep "Annabel" vehicles
+  354  ls
+  355  cd ..
+  356  ls
+  357  touch soultions.txt
+  358  ls
+  359  history
+  360  echo > The Killer is Annabel Church  185  mkdir GACLasses GAHomework\n  186  ls\n  187  cd git-pull-request-practice-\n  188  ls\n  189  cd Documents\n  190  ls\n  191  cd GAHomework\n  192  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git\n  193  git checkout -b  Sovan.Hong\n  194  ls\n  195  cd\n  196  cd..\n  197  ..cd\n  198  ls\n  199  Documents\n  200  ls\n  201  GAHomework\n  202  ls\n  203  git checkout -b Sovan-Homework3-8\n  204  cd command-line-murder-mystery\n  205  git checkout -b SovanHongHW\n  206  ls\n  207  git status\n  208  cat instructions\n  209  cheatsheet.md\n  210  ls\n  211  pwd\n  212  cd mystery\n  213  ls\n  214  cd interviews\n  215  ls\n  216  cd..\n  217  cd ..\n  218  ls\n  219  cd memberships\n  220  ls\n  221  cd streets\n  222  cd ..\n  223  ls\n  224  cd streets\n  225  ls\n  226  cd ..\n  227  ls\n  228  cd ..\n  229  ls\n  230  cd mystery\n  231  ls\n  232  cd interviews\n  233  cat interviews.txt| grep  "clue" interview-\n  234  cat interview- |grep 'clue'\n  235  cat interview- | grep "clue" interview-\n  236  ls\n  237  cd ..\n  238  ls\n  239  grep "CLUE" crimescene\n  240  cd ..\n  241  ls\n  242  cd ..\n  243  ls\n  244  cd command-line-murder-mystery\n  245  ls\n  246  cd mystery\n  247  ls\n  248  ls memberships\n  249  grep "Annabel" memberships\n  250  pwd\n  251  grep "Annabel" people\n  252  grip "Annabel" AAA\n  253  grep "Annabel" AAA\n  254  cd..\n  255  cd ..\n  256  ld\n  257  ls\n  258  cd mystery\n  259  ls\n  260  cd mem\n  261  cd memberships\n  262  LS\n  263  grep "Annabel" Delta_SkyMiles\n  264  ls\n  265  grep "Annabel" Delta_SkyMiles\n  266  grep "Annabel" Museum_of_Bash_History\n  267  grep "Annabel" AAA\n  268  cd ..\n  269  ls\n  270  cd ..\n  271  cd mystery\n  272  ls\n  273  cd memberships\n  274  ls\n  275  grep "Annabel" library.txt\n  276  grep "Annabel" Museum_of_Bash_History\n  277  grep "Annabel" Terminal_City_Library\n  278  cd ..\n  279  cd streets\n  280  ls\n  281  grep "Annabel" street\n  282  cs\n  283  cd\n  284  ls\n  285  cd Documents\n  286  ls\n  287  GAHomework\n  288  la\n  289  ls\n  290  cd command-line-murder-mystery\n  291  ls\n  292  grip hint2\n  293  cd ..\n  294  cd command-line-murder-mystery\n  295  ls\n  296  cd mystery\n  297  ls\n  298  cd ..\n  299  cl\n  300  cw\n  301  cl\n  302  sd\n  303  ls\n  304  cat hint1\n  305  cat hint2\n  306  cat hint3\n  307  cat hint4\n  308  cat hint5\n  309  ls\n  310  cd mystery\n  311  ls\n  312  grep "Annabel" people\n  313  grep "Annabel" streets\n  314  cd streets\n  315  ls\n  316  cd\n  317  ls\n  318  cd Documents\n  319  ls\n  320  cd GAHomework\n  321  ls\n  322  cd command-line-murder-mystery\n  323  ls\n  324  cat hint5\n  325  cat hint6\n  326  cat hint8\n  327  cat hint1\n  328  cat hint2\n  329  cat hint3\n  330  history\n  331  pwd\n  332  ls\n  333  cd mystery\n  334  ls\n  335  cd memberships\n  336  ls\n  337  grep "Annabel" memberships\n  338  grep "Annabel" AAA\n  339  grep "Annabel" Delta_SkyMiles\n  340  grep "Annabel" Delta.txt\n  341  grep "Annabel" Museum_of_Bash_History\n  342  ls\n  343  cd ..\n  344  ls\n  345  cd ..\n  346  ls\n  347  cat hint1\n  348  head -n 20 people\n  349  cd mystery\n  350  ls\n  351  head -n 20 people\n  352  ls\n  353  grep "Annabel" vehicles\n  354  ls\n  355  cd ..\n  356  ls\n  357  touch soultions.txt\n  358  ls
+  361  echo > The killer is Annabel Church
+  362  ls
+  363  echo The killer is Annabel Church >soultions.txt
+  364  echo   158  git checkout -b Sovan-Hong\n  159  git clone https://github.com/SEI-ATL-3-8/git-pull-request-practice-.git\n  160  ls\n  161  git checkout-b Sovan-Hong\n  162  checkout -b\n  163  ls\n  164  cd.. git-pull-request-practice-\n  165  ls\n  166  git checkout -b "Sovan-Hong"\n  167  touch Sovan-Hong.txt\n  168  ls\n  169  git status\n  170  git add\n  171  cd git-pull-request-practice-\n  172  git checkout -b Sovan-Hong\n  173  touch sovan.hong.txt\n  174  ls\n  175  git status\n  176  git add\n  177  git add sovan.hong.txt\n  178  git status\n  179  git commit -m "Hello"\n  180  git push origin Sovan-Hong\n  181  JaysonSovanHong\n  182  git push origin Sovan-Hong\n  183  dc..\n  184  ..\n  185  mkdir GACLasses GAHomework\n  186  ls\n  187  cd git-pull-request-practice-\n  188  ls\n  189  cd Documents\n  190  ls\n  191  cd GAHomework\n  192  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git\n  193  git checkout -b  Sovan.Hong\n  194  ls\n  195  cd\n  196  cd..\n  197  ..cd\n  198  ls\n  199  Documents\n  200  ls\n  201  GAHomework\n  202  ls\n  203  git checkout -b Sovan-Homework3-8\n  204  cd command-line-murder-mystery\n  205  git checkout -b SovanHongHW\n  206  ls\n  207  git status\n  208  cat instructions\n  209  cheatsheet.md\n  210  ls\n  211  pwd\n  212  cd mystery\n  213  ls\n  214  cd interviews\n  215  ls\n  216  cd..\n  217  cd ..\n  218  ls\n  219  cd memberships\n  220  ls\n  221  cd streets\n  222  cd ..\n  223  ls\n  224  cd streets\n  225  ls\n  226  cd ..\n  227  ls\n  228  cd ..\n  229  ls\n  230  cd mystery\n  231  ls\n  232  cd interviews\n  233  cat interviews.txt| grep  "clue" interview-\n  234  cat interview- |grep 'clue'\n  235  cat interview- | grep "clue" interview-\n  236  ls\n  237  cd ..\n  238  ls\n  239  grep "CLUE" crimescene\n  240  cd ..\n  241  ls\n  242  cd ..\n  243  ls\n  244  cd command-line-murder-mystery\n  245  ls\n  246  cd mystery\n  247  ls\n  248  ls memberships\n  249  grep "Annabel" memberships\n  250  pwd\n  251  grep "Annabel" people\n  252  grip "Annabel" AAA\n  253  grep "Annabel" AAA\n  254  cd..\n  255  cd ..\n  256  ld\n  257  ls\n  258  cd mystery\n  259  ls\n  260  cd mem\n  261  cd memberships\n  262  LS\n  263  grep "Annabel" Delta_SkyMiles\n  264  ls\n  265  grep "Annabel" Delta_SkyMiles\n  266  grep "Annabel" Museum_of_Bash_History\n  267  grep "Annabel" AAA\n  268  cd ..\n  269  ls\n  270  cd ..\n  271  cd mystery\n  272  ls\n  273  cd memberships\n  274  ls\n  275  grep "Annabel" library.txt\n  276  grep "Annabel" Museum_of_Bash_History\n  277  grep "Annabel" Terminal_City_Library\n  278  cd ..\n  279  cd streets\n  280  ls\n  281  grep "Annabel" street\n  282  cs\n  283  cd\n  284  ls\n  285  cd Documents\n  286  ls\n  287  GAHomework\n  288  la\n  289  ls\n  290  cd command-line-murder-mystery\n  291  ls\n  292  grip hint2\n  293  cd ..\n  294  cd command-line-murder-mystery\n  295  ls\n  296  cd mystery\n  297  ls\n  298  cd ..\n  299  cl\n  300  cw\n  301  cl\n  302  sd\n  303  ls\n  304  cat hint1\n  305  cat hint2\n  306  cat hint3\n  307  cat hint4\n  308  cat hint5\n  309  ls\n  310  cd mystery\n  311  ls\n  312  grep "Annabel" people\n  313  grep "Annabel" streets\n  314  cd streets\n  315  ls\n  316  cd\n  317  ls\n  318  cd Documents\n  319  ls\n  320  cd GAHomework\n  321  ls\n  322  cd command-line-murder-mystery\n  323  ls\n  324  cat hint5\n  325  cat hint6\n  326  cat hint8\n  327  cat hint1\n  328  cat hint2\n  329  cat hint3\n  330  history\n  331  pwd\n  332  ls\n  333  cd mystery\n  334  ls\n  335  cd memberships\n  336  ls\n  337  grep "Annabel" memberships\n  338  grep "Annabel" AAA\n  339  grep "Annabel" Delta_SkyMiles\n  340  grep "Annabel" Delta.txt\n  341  grep "Annabel" Museum_of_Bash_History\n  342  ls\n  343  cd ..\n  344  ls\n  345  cd ..\n  346  ls\n  347  cat hint1\n  348  head -n 20 people\n  349  cd mystery\n  350  ls\n  351  head -n 20 people\n  352  ls\n  353  grep "Annabel" vehicles\n  354  ls\n  355  cd ..\n  356  ls\n  357  touch soultions.txt\n  358  ls\n➜  command-line-murder-mystery git:(SovanHongHW) ✗ >....\n  321  ls\n  322  cd command-line-murder-mystery\n  323  ls\n  324  cat hint5\n  325  cat hint6\n  326  cat hint8\n  327  cat hint1\n  328  cat hint2\n  329  cat hint3\n  330  history\n  331  pwd\n  332  ls\n  333  cd mystery\n  334  ls\n  335  cd memberships\n  336  ls\n  337  grep "Annabel" memberships\n  338  grep "Annabel" AAA\n  339  grep "Annabel" Delta_SkyMiles\n  340  grep "Annabel" Delta.txt\n  341  grep "Annabel" Museum_of_Bash_History\n  342  ls\n  343  cd ..\n  344  ls\n  345  cd ..\n  346  ls\n  347  cat hint1\n  348  head -n 20 people\n  349  cd mystery\n  350  ls\n  351  head -n 20 people\n  352  ls\n  353  grep "Annabel" vehicles\n  354  ls\n  355  cd ..\n  356  ls\n  357  touch soultions.txt\n  358  ls >soultions.txt
+  365  head -100 soultions.txt
+  366  ls
+  367  head -100 soultions.txt
+  368  head -20 soultions.txt
+  369  head -1 soultions.txt
+  370  echo The Killer is Annabel Church > soultions.txt
+  371  echo 187  cd git-pull-request-practice-\n  188  ls\n  189  cd Documents\n  190  ls\n  191  cd GAHomework\n  192  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git\n  193  git checkout -b  Sovan.Hong\n  194  ls\n  195  cd\n  196  cd..\n  197  ..cd\n  198  ls\n  199  Documents\n  200  ls\n  201  GAHomework\n  202  ls\n  203  git checkout -b Sovan-Homework3-8\n  204  cd command-line-murder-mystery\n  205  git checkout -b SovanHongHW\n  206  ls\n  207  git status\n  208  cat instructions\n  209  cheatsheet.md\n  210  ls\n  211  pwd\n  212  cd mystery\n  213  ls\n  214  cd interviews\n  215  ls\n  216  cd..\n  217  cd ..\n  218  ls\n  219  cd memberships\n  220  ls\n  221  cd streets\n  222  cd ..\n  223  ls\n  224  cd streets\n  225  ls\n  226  cd ..\n  227  ls\n  228  cd ..\n  229  ls\n  230  cd mystery\n  231  ls\n  232  cd interviews\n  233  cat interviews.txt| grep  "clue" interview-\n  234  cat interview- |grep 'clue'\n  235  cat interview- | grep "clue" interview-\n  236  ls\n  237  cd ..\n  238  ls\n  239  grep "CLUE" crimescene\n  240  cd ..\n  241  ls\n  242  cd ..\n  243  ls\n  244  cd command-line-murder-mystery\n  245  ls\n  246  cd mystery\n  247  ls\n  248  ls memberships\n  249  grep "Annabel" memberships\n  250  pwd\n  251  grep "Annabel" people\n  252  grip "Annabel" AAA\n  253  grep "Annabel" AAA\n  254  cd..\n  255  cd ..\n  256  ld\n  257  ls\n  258  cd mystery\n  259  ls\n  260  cd mem\n  261  cd memberships\n  262  LS\n  263  grep "Annabel" Delta_SkyMiles\n  264  ls\n  265  grep "Annabel" Delta_SkyMiles\n  266  grep "Annabel" Museum_of_Bash_History\n  267  grep "Annabel" AAA\n  268  cd ..\n  269  ls\n  270  cd ..\n  271  cd mystery\n  272  ls\n  273  cd memberships\n  274  ls\n  275  grep "Annabel" library.txt\n  276  grep "Annabel" Museum_of_Bash_History\n  277  grep "Annabel" Terminal_City_Library\n  278  cd ..\n  279  cd streets\n  280  ls\n  281  grep "Annabel" street\n  282  cs\n  283  cd\n  284  ls\n  285  cd Documents\n  286  ls\n  287  GAHomework\n  288  la\n  289  ls\n  290  cd command-line-murder-mystery\n  291  ls\n  292  grip hint2\n  293  cd ..\n  294  cd command-line-murder-mystery\n  295  ls\n  296  cd mystery\n  297  ls\n  298  cd ..\n  299  cl\n  300  cw\n  301  cl\n  302  sd\n  303  ls\n  304  cat hint1\n  305  cat hint2\n  306  cat hint3\n  307  cat hint4\n  308  cat hint5\n  309  ls\n  310  cd mystery\n  311  ls\n  312  grep "Annabel" people\n  313  grep "Annabel" streets\n  314  cd streets\n  315  ls\n  316  cd\n  317  ls\n  318  cd Documents\n  319  ls\n  320  cd GAHomework\n  321  ls\n  322  cd command-line-murder-mystery\n  323  ls\n  324  cat hint5\n  325  cat hint6\n  326  cat hint8\n  327  cat hint1\n  328  cat hint2\n  329  cat hint3\n  330  history\n  331  pwd\n  332  ls\n  333  cd mystery\n  334  ls\n  335  cd memberships\n  336  ls\n  337  grep "Annabel" memberships\n  338  grep "Annabel" AAA\n  339  grep "Annabel" Delta_SkyMiles\n  340  grep "Annabel" Delta.txt\n  341  grep "Annabel" Museum_of_Bash_History\n  342  ls\n  343  cd ..\n  344  ls\n  345  cd ..\n  346  ls\n  347  cat hint1\n  348  head -n 20 people\n  349  cd mystery\n  350  ls\n  351  head -n 20 people\n  352  ls\n  353  grep "Annabel" vehicles\n  354  ls\n  355  cd ..\n  356  ls\n  357  touch soultions.txt\n  358  ls\n➜  command-line-murder-mystery git:(SovanHongHW) ✗ >....\n  321  ls\n  322  cd command-line-murder-mystery\n  323  ls\n  324  cat hint5\n  325  cat hint6\n  326  cat hint8\n  327  cat hint1\n  328  cat hint2\n  329  cat hint3\n  330  history\n  331  pwd\n  332  ls\n  333  cd mystery\n  334  ls\n  335  cd memberships\n  336  ls\n  337  grep "Annabel" memberships\n  338  grep "Annabel" AAA\n  339  grep "Annabel" Delta_SkyMiles\n  340  grep "Annabel" Delta.txt\n  341  grep "Annabel" Museum_of_Bash_History\n  342  ls\n  343  cd ..\n  344  ls\n  345  cd ..\n  346  ls\n  347  cat hint1\n  348  head -n 20 people\n  349  cd mystery\n  350  ls\n  351  head -n 20 people\n  352  ls\n  353  grep "Annabel" vehicles\n  354  ls\n  355  cd ..\n  356  ls\n  357  touch soultions.txt\n  358  ls > soultions.txt
+ The Killer is Annabel Church
