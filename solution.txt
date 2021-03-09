@@ -1,0 +1,6 @@
+cd mystery
+cat crimescene | grep Clue
+cat people | Annabel
+cd membership
+cat Delta_Skymiles AAA Terminal_City_Library Museum_of_Bash_History | grep Annabel
+The killer is: Annabel Church
