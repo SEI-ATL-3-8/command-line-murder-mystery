@@ -1,0 +1,99 @@
+
+  625  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  626  ls
+  627  cd command-line-murder-mystery
+  628  git checkout -b jisu-homework-1
+  629  ls
+  630  cat hint1
+  631  ls
+  632  cd mystery
+  633  ls
+  634  head -n 20 people
+  635  ls
+  636  ..
+  637  ls
+  638  cat hint2
+  639  cd mystery
+  640  grep "CLUE" crimescene
+  641  ..
+  642  ls
+  643  cat hint3
+  644  cd mystery
+  645  head people
+  646  head vehicles
+  647  ls
+  648  ..
+  649  ls
+  650  cat hint4
+  651  cd mystery
+  652  grep "Annabel" people
+  653  ls
+  654  ..
+  655  ls
+  656  cat hint5
+  657  ls
+  658  cd mystery
+  659  head -n 173 streets/Mattapan_Street | tail -n 1
+  660  ls
+  661  cd interviews
+  662  grep "interview-9437737"
+  663  history
+  664  cd Documents/ga/homworks/command-line-murder-mystery/mystery
+  665  ls
+  666  cd interviews
+  667  ls
+  668  cat interview-9437737
+  669  ls
+  670  ..
+  671  ls
+  672  ..
+  673  ls
+  674  cat hint6
+  675  ls
+  676  cd mystery
+  677  grep "Honda" vehicles
+  678  ls
+  679  cat vehicles
+  680  head "honda" vehicles
+  681  head "Honda" vehicles
+  682  ls
+  683  head "L337" vehicles
+  684  grep "L337" vehicles
+  685  ls
+  686  ..
+  687  ls
+  688  cat hint6
+  689  ls
+  690  cd mystery
+  691  head "L337"
+  692  head "L337" vehicles
+  693  ls
+  694  ..
+  695  ls
+  696  cat hint6
+  697  ls
+  698  cat hint7
+  699  cd mystery
+  700  head [Honda] vehicles
+  701  ls
+  702  grep -A 5 "L337" mystery/vehicles
+  703  ..
+  704  ls
+  705  grep -A 5 "L337" mystery/vehicles
+  706  ls
+  707  cat hint8
+  708  ls
+  709  cd mystery
+  710  ls
+  711  cd memberships
+  712  ls
+  713  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
+  714  cat Fitness_Galaxy AAA United_MileagePlus | grep "Joe Germuska"
+  715  cat Fitness_Galaxy AAA United_MileagePlus | grep "Jacqui Maher"
+  716  cat Fitness_Galaxy AAA United_MileagePlus | grep "Jeremy Bowersr"
+  717  cat Fitness_Galaxy AAA United_MileagePlus | grep -c  "Joe Germuska"
+  718  ls
+  719  ..
+  720  ls
+
+Killer is Joe Germuska
