@@ -1,0 +1,135 @@
+ 232  cd homework
+  233  ls
+  234  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  235  ls
+  236  mv yet-another-git-practice-pull-request cd.. lesons
+  237  clear
+  238  ls
+  239  git checkout -b 'rz-hw'
+  240  ls
+  241  cd instructions
+  242  cat instructions
+  243  cat cheatsheet.md
+  244  ls
+  245  clear
+  246  ls
+  247  touch solution.txt
+  248  ls
+  249  cd mystery
+  250  ls
+  251  cd ..
+  252  ls
+  253  clear
+  254  ls
+  255  cat instructions
+  256  cd mystery
+  257  ls
+  258  cat crimescene
+  259  ls
+  260  cd ..
+  261  ls
+  262  cat README.md
+  263  ls
+  264  cat instructions
+  265  ls
+  266  cat hint1
+  267  head -n 20 people
+  268  cat hint2
+  269  cat hint3
+  270  hint4
+  271  cat hint4
+  272  cat hint5
+  273  cat hint6
+  274  cat hint7
+  275  cat hint8
+  276  ls
+  277  cd mystery
+  278  ls
+  279  cat people
+  280  ls
+  281  cat vehicles
+  282  ls
+  283  cat crimescene
+  284  ls
+  285  cd interviews
+  286  ls
+  287  cd..
+  288  cd ..
+  289  ls
+  290  cd memberships
+  291  ls
+  292  clear
+  293  ls
+  294  cd ..
+  295  ls
+  296  cd streets
+  297  ls
+  298  cd ..
+  299  ls
+  300  cd ..
+  301  ls
+  302  clear
+  303  ls
+  304  cat instructions
+  305  ls
+  306  cd mystery
+  307  ls
+  308  cat crimescene.txt | grep "CLUE" crimescene.txt
+  309  cat crimescene | grep "CLUE" crimescene
+  310  ls
+  311  cat solution
+  312  ls
+  313  cd ..
+  314  ls
+  315  cat solution
+  316  cat README.md
+  317  ls
+  318  cd mystery
+  319  ls
+  320  head -20 crimescene
+  321  ls
+  322  head -20 people
+  323  head -30 vehicles
+  324  head -100 vehicles
+  325  ls
+  326  cat vehicles
+  327  cat vehicles | grep "6'0" vehicles
+  328  ls
+  329  cat people | grep "Annabel" people
+  330  ls
+  331  head -5 interviews
+  332  head -10 interviews
+  333  ls
+  334  cd interviews
+  335  head -20 interview-
+  336  head -20 interview
+  337  head -20
+  338  ls
+  339  cd ..
+  340  ls
+  341  cd memberships
+  342  ls
+  343  cat Museum_of_Bash_History
+  344  ls
+  345  cat Museum_of_Bash_History | grep "Annabel" Museum_of_Bash_History
+  346  ls
+  347  cat AAA | grep "Annabel" AAA
+  348  cat Delta_SkyMiles | grep "Annabel" Delta_SkyMiles
+  349  cat library.txt | grep "Annabel" library.txt
+  350  ls
+  351  cd ..
+  352  ls
+  353  cd streets
+  354  ls
+  355  cat Buckingham_Place
+  356  ls
+  357  cd ..
+  358  ls
+  359  cat vehicles
+  360  cat vehicles | grep "Annabel" vehicles
+  361  cat vehicles | grep -A 5 "Annabel" vehicles
+  362  cat vehicles | grep -A 10 "Annabel" vehicles
+  363  LS
+  364  ls
+
+Name of the killer is Annabel Church F 38 Bucklingham Place, line 179
