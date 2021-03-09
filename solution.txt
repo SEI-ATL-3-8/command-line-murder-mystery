@@ -1,0 +1,8 @@
+Commands run:
+=============================
+1. grep "Annabel" mystery/people
+2. cat mystery/memberships/AAA mystery/memberships/Delta_SkyMiles mystery/memberships/library.txt mystery/memberships/Museum_of_Bash_History | grep "Annabel"
+3. grep -A 3 -B 3 "Annabel" mystery/vehicles
+
+The name of the killer:
+Oluwasegun Annabel
