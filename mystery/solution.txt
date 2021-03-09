@@ -1,0 +1,36 @@
+252  cat crimescene | grep CLUE
+  253  cat crimescene | grep barista
+  254  cat people | grep Annabel
+  255  ls
+  256  cd streets
+  257  head -n 176 Haley_Street | tail -n 1
+  258  head -n 179 Buckingham_Place | tail -n 1
+  259  head -n 173 Mattapan_Street | tail -n 1
+
+  260  head -n 40 Hart_Place | tail -n 1
+
+  261  pwd
+  262  cd ../interviews
+  263  head -n 20 interviews
+  264  ls
+  265  cd interview-47246024
+  266  cat interview-47246024
+  267  cat interview-9437737
+  268  cat interview-699607
+  269  cat interview-871877
+  270  cd ..
+  271  ls
+  272  cat vehicles | grep L337
+  273  cat vehicles | grep -A 5 L337
+  274  LS
+  275  ls
+  276  cd memberships
+  277  ls
+  278  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep Katie Park
+  279  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep Mike Bostock
+  280  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep Mike Bostock
+  281  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep Erika Owens
+  282  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep Joe Germuska
+  283  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep Jeremy Bowers
+  284  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep Jacqui Maher
+The kller is Jeremy Bowers
