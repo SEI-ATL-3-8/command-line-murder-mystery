@@ -1,0 +1,322 @@
+  187  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  188  ls -l -a
+  189  cd command-line-murder-mystery/
+  190  ls -l -a
+  191  cat instructions
+  192  ../..
+  193  cd ../..
+  194  cd homeworks/
+  195  ls -l -a
+  196  cd command-line-murder-mystery/
+  197  git checkout -b Nicks-homework
+  198  ls -l -a
+  199  cat instructions
+  200  ls -l -a
+  201  cd mystery/
+  202  ls -l -a
+  203  cd ..
+  204  ls -l -a
+  205  touch solution.txt
+  206  ls -l -a
+  207  cd mystery/
+  208  ls -l -a
+  209  cat crimescene
+  210  cd ..
+  211  ls -l -a
+  212  cd mystery/
+  213  ls -l -a
+  214  cd interviews/
+  215  ls -l -a
+  216  ls -l -a
+  217  cd ..
+  218  ls -l -a
+  219  cd streets/
+  220  ls -l -a
+  221  ..
+  222  cd ..
+  223  ls -l -a
+  224  cd ..
+  225  ls -l -a
+  226  cat instructions
+  227  cd grep -r "CLUE"
+  228  ls -l -a
+  229  CD mystery/
+  230  cd mystery/
+  231  ls -l -a
+  232  cat crimescene
+  233  grep -r "CLUE"
+  234  grep -r "CLUE"
+  235  https://github.com/SEI-ATL-3-8/command-line-murder-mystery.githttps://github.com/SEI-ATL-3-8/command-line-murder-mystery.githttps://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  236  ls -l -a
+  237  CD interviews/
+  238  cd interviews/
+  239  ls -l -a
+  240  cat interview-999372
+  241  grep -r "Annabel"
+  242  grep -r "Annabell"
+  243  ls -l -a
+  244  cd ..
+  245  ls -l -a
+  246  cd memberships/
+  247  ls -l -a
+  248  cat AA
+  249  cat AAA
+  250  grep -r "Annabel"
+  251  cd ..
+  252  ls -l -a
+  253  cd interviews
+  254  grep -r "Annabel"
+  255  grep -r "Church"
+  256  cd ..
+  257  ls -l -a
+  258  grep -r Annabel
+  259  cd ..
+  260  ls -l -a
+  261  cd mystery/
+  262  ls -l -a
+  263  cat vehicles
+  264  grep -r Annabel
+  265  ls -l -a
+  266  cat vehicles
+  267  grep -r 6'
+  268  cd
+  269  cd ..
+  270  grep -r "6'"
+  271  '
+  272  cc
+  273  dsffsdfs
+  274  $
+  275  cd desktop
+  276  pwd
+  277  pdw
+  278  ls -l -a
+  279  cd ..
+  280  ls -l -a
+  281  cd mingw64/
+  282  ls -l -a
+  283  cd ..
+  284  pwd
+  285  ls -l -a
+  286  ls
+  287  ls -l
+  288  ls -l -a
+  289  cd ..
+  290  cd ..
+  291  ls
+  292  Annabel Church
+  293  Annabel Church
+  294  cd Desktop/
+  295  cd /desktop
+  296  cd bin
+  297  ls
+  298  cd ..
+  299  ls
+  300  cd cmd
+  301  ls
+  302  ls
+  303  cd Desktop/
+  304  ls
+  305  cd GA
+  306  ls
+  307  cd homeworks/
+  308  ls
+  309  cd command-line-murder-mystery/
+  310  ls
+  311  cd mystery/
+  312  grep -r 'foot'
+  313  Annabel Church
+  314  cd ..
+  315  cd mystery/
+  316  grep -r Church
+  317  Annabel Church
+  318  grep -r wallet
+  319  grep -r Annabel
+  320  ls -l -a
+  321  grep -r CLUE
+  322  grep -r barista
+  323  grep -r coffee
+  324  grep -r blond
+  325  crimescene:CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is at least 6' tall.
+  326  crimescene:CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.
+  327  crimescene:CLUE: Questioned the barista at the local coffee shop. He said a person left right before they heard the shots. The name on their latte was Annabel, they had blond spiky hair and a New Zealand accent.
+  328  cd ..
+  329  crimescene:CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is at least 6' tall.
+  330  crimescene:CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.
+  331  crimescene:CLUE: Questioned the barista at the local coffee shop. He said a person left right before they heard the shots. The name on their latte was Annabel, they had blond spiky hair and a New Zealand accent.
+  332  ls -l -a
+  333  cd streets/
+  334  ls -l -a
+  335  cat Buckingham_Place
+  336  cd ..
+  337  ls -l -a
+  338  cd interviews/
+  339  grep -r 699607
+  340  ls
+  341  cat interview-699607
+  342  cd ..
+  343  grep -r 'L337'
+  344  cd ..
+  345  cd mystery/
+  346  ls
+  347  cat vehicles
+  348  ls -l -a
+  349  cat people
+  350  ls -l -a
+  351  cd memberships/
+  352  ls -l -a
+  353  cat library.txt
+  354  ls -l -a
+  355  cat Delta_SkyMiles
+  356  ..
+  357  cd ..
+  358  cd memberships/
+  359  ls -l -a
+  360  cat Museum_of_Bash_History
+  361  ls -l -a
+  362  cat 1.txt
+  363  cd ..
+  364  ls -l -a
+  365  grep -r honda
+  366  grep -r 'Honda'
+  367  ls -l -a
+  368  cd interviews/
+  369  cat interview-56892213
+  370  cat interview-706620
+  371  cd ..
+  372  grep -r '6 foot'
+  373  grep -r 'Zealand'
+  374  ls -l -a
+  375  cd ..
+  376  ls -l -a
+  377  cat hint1
+  378  ls -l -a
+  379  cd mystery/
+  380  ls -l -a
+  381  head -n 20 people
+  382  ls -l -a
+  383  cd streets
+  384  head -n 20 people
+  385  head -n 20 streets
+  386  ls
+  387  cat Buckingham_Place
+  388  To go to the street someone lives on, use the file
+  389  for that street name in the 'streets' subdirectory.
+  390  To knock on their door and investigate, read the line number
+  391  they live on from the file.  If a line looks like gibberish, you're at the wrong house.
+  392  cd
+  393  To go to the street someone lives on, use the file
+  394  for that street name in the 'streets' subdirectory.
+  395  To knock on their door and investigate, read the line number
+  396  they live on from the file.  If a line looks like gibberish, you're at the wrong house.
+  397  grep -r "line 179"
+  398  grep -r 179
+  399  cd ..
+  400  grep -r 179
+  401  ls -l -a
+  402  cd ..
+  403  cat hint2
+  404  cat hint3
+  405  head -n 20 vehicles
+  406  head -n 20 people
+  407  ls -l -a
+  408  cd mystery/
+  409  head -n 20 vehicles
+  410  cd memberships/
+  411  ls -l -a
+  412  head -n 20 AAA
+  413  head -n 20 library.txt
+  414  ls -l -a
+  415  CD ..
+  416  ls -l -a
+  417  cd ..
+  418  ls -l -a
+  419  cd ..
+  420  ls -l -a
+  421  cat hint4
+  422  cat hint5
+  423  cd mystery/
+  424  ls -l -a
+  425  grep "Annabel" people
+  426  head -n 173 streets/Mattapan_Street | tail -n 1
+  427  cd interviews/
+  428  cat interview-9437737
+  429  head -n Honda vehicles | tail -n 4
+  430  head -n Honda vehicles | tail -n 1
+  431  cd ..
+  432  ls -l -a
+  433  cd ..
+  434  ls -l -a
+  435  cat hint6
+  436  cd mystery/
+  437  ls -l -a
+  438  grep "Honda" vehicles
+  439  head -n 20 "Honda" vehicles
+  440  head -n "L337" vehicles
+  441  head -n 100 vehicles
+  442  cd
+  443  ls -l -a
+  444  cd Desktop/
+  445  ls
+  446  cd GA
+  447  cd homeworks/
+  448  cd command-line-murder-mystery/
+  449  ls -l -a
+  450  cat cheatsheet.md
+  451  ls -l -a
+  452  cd mystery/
+  453  grep -C 5 "L337" vehicles
+  454  head -n 20 vehicles
+  455  ls -l -a
+  456  cd ..
+  457  ls -l -a
+  458  cat cheatsheet.md
+  459  cd mystery/
+  460  grep -A 6 "L337" vehicles
+  461  ls -l -a
+  462  cd memberships/
+  463  ls -l -a
+  464  grep "Maher" AAA
+  465  grep "Bowers" AAA
+  466  grep "Germuska" AAA
+  467  grep "Owens" AAA
+  468  grep "Bowers" library.txt
+  469  grep "Germuska" library.txt
+  470  grep "Germuska" Delta_SkyMiles
+  471  grep "Bower" Delta_SkyMiles
+  472  cd ..
+  473  ls -l -a
+  474  grep "Jeremy Bowers" streets
+  475  cd streets/
+  476  grep "Jeremy Bowers"
+  477  ls -l -a
+  478  cd Desktop/
+  479  cd GA
+  480  cd homeworks/
+  481  cd command-line-murder-mystery/
+  482  ls -l -a
+  483  grep -r "Jeremy Bowers"
+  484  head -n 284 streets/Dunstable Road | tail -n 1
+  485  head -n 284 streets/Dunstable_Road | tail -n 1
+  486  ls -l -a
+  487  cd mystery/
+  488  ls -l -a
+  489  cd streets/
+  490  ls -l -a
+  491  head -n 284 streets/Dunstable_Road | tail -n 1
+  492  head -n 284 Dunstable_Road | tail -n 1
+  493  cd ..
+  494  ls -l -a
+  495  grep -A 5 "9620713"
+  496  cd Desktop/
+  497  cd GA
+  498  cd homeworks/
+  499  cd command-line-murder-mystery/
+  500  ls -l -a
+  501  cd mystery/
+  502  ls -l -a
+  503  cd interviews/
+  504  grep -r '9620713'
+  505  cat interview-9620713
+  506  history
+
+The killer is Jeremy Bowers.
