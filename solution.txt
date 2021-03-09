@@ -1,0 +1,345 @@
+    1  brew install git
+    2  git --version
+    3  brew upgrade git
+    4  git -- version
+    5  git --version
+    6  brew upgrade git
+    7  git --version
+    8  brew install --cask visual-studio-code
+    9  open ~/.zshrc
+   10  export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+   11  code .
+   12  code
+   13  code ~/.zshrc
+   14  git config --global credential.helper 'cache --timeout=28800'
+   15  pwd
+   16  ls
+   17  ls -l
+   18  ls -a
+   19  cd
+   20  $ pwd
+   21  pwd
+   22  cd mansion
+   23  cd into-to-command
+   24  cd mansion
+   25  pwd
+   26  cd GA-Blog
+   27  pwd
+   28  cd mansion
+   29  cd downloads
+   30  cd Downloads
+   31  pwd
+   32  cd intro_to_command_line-main
+   33  cd mansion
+   34  pwd
+   35  cd Downloads
+   36  pwd
+   37  cd mansion
+   38  cd intro_to_command_line-main
+   39  cd mansion
+   40  pwd
+   41  ls
+   42  cat entry_hall
+   43  cd entry_hall
+   44  pwd
+   45  cat
+   46  pwd
+   47  cd Downloads
+   48  pwd
+   49  cd mansion
+   50  cd intro_to_command_line-main
+   51  cd mansion
+   52  pwd
+   53  cd entryway
+   54  cat mansion
+   55  ls
+   56  cd entry_hall
+   57  ls
+   58  cd coat_closet
+   59  ls
+   60  echo take_off_coat
+   61  ls
+   62  cd ..
+   63  pwd
+   64  cd ..
+   65  cd east_wing
+   66  ls
+   67  cd dining_room
+   68  ls
+   69  rm -r sandwich.txt
+   70  ls
+   71  cp -r chair.txt chair2.txt
+   72  ls
+   73  cp -r chair.txt chair3.txt
+   74  cp -r chair.txt chair4.txt
+   75  ls
+   76  cd guest_bedroom
+   77  cd east_wing
+   78  cd ../guest_bedroom/
+   79  -l -a
+   80  ls
+   81  cd ../mansion/
+   82  cd ../..
+   83  pwd
+   84  ls
+   85  cd west_wing/master_bedroom
+   86  pwd
+   87  l s-a
+   88  la s
+   89  ls
+   90  ls-a
+   91  ls -a
+   92  cp -r mirror.txt smashed_mirror.txt
+   93  rm -r mirror.txt
+   94  ls-a
+   95  ls -a
+   96  $ touch intermediate.txt
+   97  touch intermediate.txt
+   98  ls
+   99  echo this > intermediate.txt
+  100  cat intermediate.txt
+  101  echo "is just a test case"
+  102  cat intermediate.txt
+  103  echo "is just a test case" >
+  104  echo "is just a test case">
+  105  cat intermediate.txt
+  106  cat intermediate.txt | grep "test" intermediate.txt
+  107  cat intermediate.txt | grep "this" intermediate.txt
+  108  pwd
+  109  ls
+  110  git clone
+  111  git clone https://github.com/SEI-ATL-3-8/git-pull-request-practice-.git
+  112  git checkout -b your-branch-name
+  113  git checkout -b connors-branch
+  114  git clone https://github.com/SEI-ATL-3-8/git-pull-request-practice-.git
+  115  git checkout -b connors-branch
+  116  git checkout -b connorc-branch
+  117  ls
+  118  cd git-pull-request-practice-
+  119  git checkout -b connorc-branch
+  120  git add connorc-branch
+  121  touch text.txt
+  122  ls
+  123  git status
+  124  git add text.txt
+  125  git status
+  126  git commit -m 'your commit message goes here'
+  127  git status
+  128  git push origin connorc-branch
+  129  git status
+  130  ls
+  131  git add file.txt
+  132  git add text.txt
+  133  git status
+  134  git commit -m 'first commit'
+  135  git config --global user.email "connorcourtney123@gmail.com"
+  136  git config --global user.name "Connor Courtney"
+  137  git commit -m 'first commit'
+  138  git push origin connorc-branch
+  139  git status
+  140  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  141  ls
+  142  cat instructions
+  143  cd command-line-murder-mystery
+  144  cat instructions
+  145  ls
+  146  cd mystery
+  147  ls
+  148  cd crimescene
+  149  cat crimescene
+  150  find CLUE
+  151  grep "CLUE" crimescene
+  152  head -n 20 people
+  153  head -n 20 vehicles
+  154  grep "Annabel" people
+  155  head -n 173 streets/Mattapan_Street | tail -n 1
+  156  greg "Honda" vehicles
+  157  grep "Honda" vehicles
+  158  grep -A 5 "L337" myserty/vehicles
+  159  grep -A 5 "L337" mystery/vehicles
+  160  grep -A 5 "L337" vehicles
+  161  cat Fitness_Galaxy AAA United_MileagePlus | grep "Annabel"
+  162  cat instructions
+  163  cat
+  164  git status
+  165  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  166  cat command-line-murder-mystery
+  167  cd command-line-murder-mystery
+  168  cat instructions
+  169  cat solution
+  170  nano cheatsheet.
+  171  head -n 20 people
+  172  ls
+  173  cd mystery
+  174  ls
+  175  cd interviews
+  176  ls
+  177  head -n 20 people
+  178  cd people
+  179  cd ..
+  180  head -n 20 people
+  181  ls
+  182  cd crimescene
+  183  grep "CLUE" crimescene
+  184  greg "Annabel"
+  185  grep "Annabel"
+  186  cd Desktop
+  187  cd -
+  188  ls
+  189  cd command-line-murder-mystery
+  190  ls
+  191  cat instructions
+  192  ls
+  193  cd mystery
+  194  ls
+  195  cat crimescene
+  196  ls
+  197  grep "CLUE" crimescene
+  198  cat people
+  199  grep "Annabel" people
+  200  ls
+  201  cd interviews
+  202  ls
+  203  cd -
+  204  ls
+  205  cd streets
+  206  ls
+  207  cat Hart_Place
+  208  ls
+  209  cat Buckingham_Place
+  210  cd -
+  211  ls
+  212  cd memberships
+  213  ls
+  214  cat AAA
+  215  grep "Annabel Sun" AAA
+  216  grep "Annabel^ Sun" AAA
+  217  grep "Annabel\ Sun" AAA
+  218  ls
+  219  grep "Annabel Sun" ^
+  220  grep "Annabel" ^
+  221  grep "Annabel" AAA
+  222  grep "Annabel" Delta_SkyMiles
+  223  grep "Annabel" Museum_of_Bash_History
+  224  grep "Annabel" library.txt
+  225  cat library.txt
+  226  ls
+  227  grep "Annabel" Terminal_City_Library
+  228  cd -
+  229  ls
+  230  cd interviews
+  231  ls
+  232  cd -
+  233  ls
+  234  grep "CLUE" crimescene
+  235  cat people
+  236  grep "CLUE" crimescene
+  237  ls
+  238  grep "Annabel" people
+  239  ls
+  240  grep "Annabel" crimescene
+  241  ls
+  242  cd streets
+  243  ls
+  244  cat Buckingham_Place
+  245  ls
+  246  cd -
+  247  ls
+  248  cat vehicles
+  249  grep -A 1 -B 4 "Height: 6'" vehicles
+  250  grep "Anabel" | grep -A 1 -B 4 "Height: 6'" vehicles
+  251  grep -A 1 -B 4 "Height: 6'" vehicles > vehicles6
+  252  ls
+  253  grep "Annabel" vehicles6
+  254  cd interviews
+  255  grep "Annabel" ^s
+  256  grep "Annabel" ^
+  257  grep -l "Annabel" *
+  258  grep "Annabel" *
+  259  grep -l  "New Zealand" *
+  260  grep "blond" | grep -l  "New Zealand" *
+  261  grep "blond" | cat |  grep -l  "New Zealand" *
+  262  ls
+  263  cd -
+  264  ls
+  265  cd interviews
+  266  grep "spikey blond" *
+  267  grep "blond" *
+  268  grep -l  "New Zealand" *
+  269  grep  "New Zealand" *
+  270  cat interview-94126412
+  271  cat interview-47246024
+  272  grep  "6'" *
+  273  cat interview-290346
+  274  ls
+  275  cd -
+  276  ls
+  277  grep "CLUE" crimescene
+  278  cd -
+  279  ls
+  280  cd -
+  281  cd ..
+  282  ls
+  283  cat instructions
+  284  cat hint1
+  285  cat hint2
+  286  cat hint3
+  287  ls
+  288  cd mystery
+  289  ls
+  290  head -n 20 vehicles
+  291  cd ..
+  292  cat hint4
+  293  cat hint5
+  294  head -n 20 people
+  295  ls
+  296  cd mystery
+  297  head -n 20 people
+  298  grep "CLUE" crimescene
+  299  cd ..
+  300  cat hint5
+  301  cat hint6
+  302  cd mystery
+  303  ls
+  304  cd streets
+  305  cd -
+  306  head streets/Mattapan_Street
+  307  head -n 173  streets/Mattapan_Street | tail -n 1
+  308  cat interviews/interview-9437737
+  309  head -n 173  streets/Haley_Street | tail -n 1
+  310  grep "INTERVIEW" streets/Haley_Street
+  311  cat interviews/interview-871877
+  312  grep "INTERVIEW" streets/Buckingham_Place
+  313  cat interviews/interview-699607
+  314  ls
+  315  grep ^L337.9 vehicles
+  316  grep L337.9 vehicles
+  317  head vehicles
+  318  grep L337..9 vehicles
+  319  grep L337..9 vehicles6
+  320  grep -A 5 L337..9 vehicles6
+  321  grep -A 5 L337..9 vehicles6 > vehiclesLicMatch
+  322  ls
+  323  grep -A 4 "Honda"  vehiclesLicMatch
+  324  ls
+  325  cd memberships
+  326  grep -l "Mike Bostock" *
+  327  grep -l "Erika Owens" *
+  328  grep -l "Joe Germuska" *
+  329  grep -l "Jeremy Bowers" *
+  330  grep -l "Jaqui Maher" *
+  331  ls
+  332  cd ..
+  333  ls
+  334  head people
+  335  grep "Jeremy Bowers" people
+  336  grep "Mike Bostock" people
+  337  ls
+  338  head -n 284  streets/Dunstable_Road | tail -n 1
+  339  head -n 287  streets/Senders_Court | tail -n 1
+  340  cat interviews/interview-290346
+  341  cat interviews/interview-9620713
+  342  ls
+  343  cd ..
+  344  ls
+Jeremy Bowers
