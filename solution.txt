@@ -1,0 +1,32 @@
+1. The commands you used to get the solution. 
+
+grep  "CLUE" crimescene > clues.txt
+grep "Annabel" people
+head -n 173 streets/Mattapan_Street | tail -n 1
+cd interviews
+cat interview-9437737
+cd ..
+head -n 40 streets/Hart_Place | tail -n 1
+cd interviews
+cat interview-47246024
+cd ..
+head -n 179 streets/Buckingham_Place | tail -n 1
+cd interviews
+cat interview-699607
+cd ..
+head -n 176 streets/Haley_Street | tail -n 1
+cd interviews
+cat interview-871877
+cd ..
+grep -C 4  "L337" vehicles >> l337plates.txt
+grep -C 4  "Height: 6" l337plates.txt  >> 1337plates6ft.txt
+grep -C 4  "Color: Blue" 1337plates6ft.txt  >> 1337plates6ftblue.txt
+grep -C 4  "Make: Honda" 1337plates6ftblue.txt  >> 1337plates6ftbluehonda.txt
+cat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_History  | grep -c  "Joe Germuska"
+cat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_History  | grep -c  "Erika Owens"
+cat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_History  | grep -c  "Jeremy Bowers"
+cat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_History  | grep -c  "Jacqui Maher"
+
+2. The name of the killer.
+
+Jeremy Bowers
