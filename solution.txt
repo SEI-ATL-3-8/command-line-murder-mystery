@@ -1,0 +1,451 @@
+  1  pwd
+    2  pwd
+    3  applications
+    4  ls
+    5  Applications
+    6  ls
+    7  cd Documents
+    8  ls
+    9  ls
+   10  cd music
+   11  cd Music
+   12  ls
+   13  cd Pictures
+   14  cd Desktop
+   15  ls
+   16  ls
+   17  ls
+   18  ls
+   19  ls
+   20  cd Downloads
+   21  ls
+   22  ls -a
+   23  cd ..
+   24  pwd
+   25  cd ~
+   26  mkdir myFolder
+   27  ls
+   28  cd myFodler
+   29  cd myFolder
+   30  touch index.html style.css
+   31  ls
+   32  rm style.css
+   33  ls
+   34  cd ..
+   35  rm -r myFolder
+   36  ls
+   37  cd Documents
+   38  ls
+   39  mkdir oh yea
+   40  ls
+   41  cd oh yea
+   42  rmdir oh yea
+   43  mkdir myfolder
+   44  cd myfolder
+   45  touch index.html style.css
+   46  rm style.css
+   47  cd ..
+   48  cd ..
+   49  cd World
+   50  cd Downloads
+   51  cd World
+   52  ls
+   53  ls -a
+   54  cd -a africa
+   55  cd -a Africa
+   56  cd Africa
+   57  cd -a
+   58  ls -a
+   59  cd ..
+   60  cd Asia
+   61  ls -a
+   62  cd ..
+   63  cd Australia
+   64  ls -a
+   65  cd ..
+   66  cd Europe
+   67  ls -a
+   68  cd~
+   69  cd ~
+   70  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   71  echo eval export HOMEBREW_PREFIX="/opt/homebrew"; export HOMEBREW_CELLAR="/opt/homebrew/Cellar"; export HOMEBREW_REPOSITORY="/opt/homebrew"; export PATH="/opt/homebrew/bin:/opt/homebrew/sbin${PATH+:$PATH}"; export MANPATH="/opt/homebrew/share/man${MANPATH+:$MANPATH}:"; export INFOPATH="/opt/homebrew/share/info:${INFOPATH:-}"; >> /Users/noahlinn/.zprofile
+    eval $(/opt/homebrew/bin/brew shellenv)
+   72   git --version
+
+   73  mkdir GA-Blog
+   74  cd GA-Blog
+   75  mkdir .git/
+   76  $ git init
+
+   77  git init
+
+   78  ls -a
+   79  git status
+   80  touch my-first-post.txt
+   81  git status
+   82  git add my-first-post.txt
+   83  git status
+   84  git add post.txt
+   85  git add .
+   86  git status
+   87  git commit -m "created a new post.txt file"
+   88  git log
+   89  cd ..
+   90  mkdir General Assembly
+   91  cd General Assembly
+   92  rmdir Assembly
+   93  rmdir General
+   94  ls
+   95  mkdir General-Assembly
+   96  cd General-Assembly
+   97  ls
+   98  mkdir git-practice
+   99  cd git-practice
+  100  git init
+  101  ls -a
+  102  touch README.txt
+  103  git status
+  104  git commit -m "Issa Read Me"
+  105  cupsctl WebInterface=yes
+  106  which brew
+  107  xcode-select --version
+  108  echo $SHELL
+  109  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+  110  which brew
+  111  open ~/.zshrc
+
+  112  export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+
+  113  open ~/.zshrc
+
+  114  code .
+  115  code ~/.zshrc
+  116  export ZSH="/Users/noahlinn/.oh-my-zsh"
+  117  ZSH_THEME="af-magic"
+
+  118  export EDITOR="code -w"
+
+  119  code ~/.zshrc
+  120  git config --global credential.helper cache --timeout=28800
+
+  121  code
+  122  ls -l
+  123  ls -a
+  124  pwd -a
+  125  pwd
+  126  ls -l -a
+  127  ls
+  128  pwd
+  129  cmd Downloads
+  130  cd Downloads
+  131  ls
+  132  ls -a
+  133  cd intro_to_command_line-main
+  134  ls -a
+  135  cd mansion
+  136  la -a
+  137  ls
+  138  cmd
+  139  pwd
+  140  cd entry_hall
+  141  ls -a
+  142  cd coat_closet
+  143  ls -a
+  144  cat my_coat.txt
+  145  touch my_coat.txt
+  146  ls -a
+  147  cd
+  148  ls
+  149  cd Downloads
+  150  ls -a
+  151  cd intro_to_command_line-main
+  152  ls -a
+  153  cd mansion
+  154  ls -a
+  155  cd west_wing
+  156  ls -a
+  157  cd mansion
+  158  cd~
+  159  cd ~
+  160  cd ~/Downloads/intro_to_command_line-main/mansion/east_wing
+  161  ls -a
+  162  cd dining_room
+  163  ls -a
+  164  rm sandwich.txt
+  165  ls -a
+  166  cp chair.txt chair_2.txt
+  167  ls -a
+  168  cp chair.txt chair_3.txt
+  169  ls -a
+  170  cp chair.txt chair_4.txt
+  171  ls -a
+  172  cd~/Downloads/intro_to_command_line-main/mansion/west_wing/guest_room
+  173  cd~ /Downloads/intro_to_command_line-main/mansion/west_wing/guest_room
+  174  c d~/Downloads/intro_to_command_line-main/mansion/west_wing/guest_room
+  175  cd ~/Downloads/intro_to_command_line-main/mansion/west_wing/guest_room
+  176  cd ~/Downloads/intro_to_command_line-main/mansion/east_wing/guest_bedroom
+  177  cd ~/Downloads/intro_to_command_line-main/mansion
+  178  ~/Downloads/intro_to_command_line-main/mansion/west_wing/master_bedroom
+  179  ls -a
+  180  mv mirror.txt smashed_mirror.txt
+  181  \ls -a
+  182  ls -a
+  183  mkdir cardboard_box
+  184  ls -a
+  185  cd cardboard_box
+  186  cd..
+  187  cd . .
+  188  cd ..
+  189  mv smashed_mirror ~/Downloads/intro_to_command_line-main/mansion/west_wing/master_bedroom/cardboard_box
+  190  ls -a
+  191  mv smashed_mirror.txt ~/Downloads/intro_to_command_line-main/mansion/west_wing/master_bedroom/cardboard_box
+  192  ls -a
+  193  cd cardboard_box
+  194  ls -a
+  195  cd ..
+  196  ls -a
+  197  cd .secret_passage
+  198  ls -a
+  199  mv .family_heirloom.txt ~/Downloads/intro_to_command_line-main/mansion/west_wing/master_bedroom
+  200  cd ..
+  201  ls a
+  202  ls -a
+  203  rm .secret_passage
+  204  ls -a
+  205  rmdir .secret_passage
+  206  ls -a
+  207  cd ~/downloads/../../west_wing
+  208  touch touch intermediate.txt
+  209  echo "I believe I can fly" > intermediate.txt
+  210  cat intermediate.txt
+  211  echo "is just a test case" >> intermediate.txt
+  212  cat intermediate.txt
+  213  cd ~
+  214  pwd
+  215  ls
+  216  cd Documents
+  217  mkdir myGa
+  218  cd myGa
+  219  ls -a
+  220  mkdir classwork
+  221  cd classwork
+  222  git clone https://github.com/SEI-ATL-3-8/git-pull-request-practice-.git
+  223  ls
+  224  cd git-pull-request-practice-
+  225  ls
+  226  touch text.txt
+  227  ls
+  228  ls -a
+  229  git checkout -b noah-first-pull
+  230  git status
+  231  git add text.txt
+  232  git status
+  233  git commit -mmy first pull request
+  234  git push orgin noah-first-pull
+  235  git push origin noah-first-pull
+  236  cd ..
+  237  mkdir homework
+  238  cd homework
+  239  git clone https://github.com/SEI-ATL-3-8/yet-another-git-practice-pull-request.git
+  240  git checkout -b noah-git-pull-2
+  241  cd yet-another-git-practice-pull-request
+  242  git checkout -b noah-git-pull-2
+  243  cd ..
+  244  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  245  git checkout -b noah-hw1
+  246  cd command-line-murder-mystery
+  247  git checkout -b noah-hw1
+  248  ls -a
+  249  cat instructions
+  250  cd mystery
+  251  ls -a
+  252  cat crimescene
+  253  ls -a
+  254  ls ..
+  255  grep "clue" crimescene
+  256  cd mystery
+  257  ls
+  258  grep "clue" crimescene
+  259  cd crimescene
+  260  cd ..
+  261  cd mystery
+  262  grep clue crimescene
+  263  grep mock crimescene
+  264  ls
+  265  cd ..
+  266  cat instructions
+  267  cd mystery
+  268  grep "CLUE" crimescene
+  269  grep "CLUE" people
+  270  cat people
+  271  ls -a
+  272  cat vehickles
+  273  cat vehicles
+  274  ls -a
+  275  cd interviews
+  276  ls -a
+  277  cd ..
+  278  cd memberships
+  279  ls -a
+  280  cat AAA
+  281  cd ..
+  282  ls -a
+  283  cd ..
+  284  ls -a
+  285  cat hint1
+  286  cat hint 2
+  287  cat hint2
+  288  cat hint3
+  289  cat hint4
+  290  cd mystery
+  291  ls -a
+  292  grep annabel people
+  293  grep "Annabel" people
+  294  head vehicles
+  295  grep "Annabel" vehicles
+  296  cat vehicles
+  297  grep -B 3 -A 2 "Annabel" vehicles
+  298  ls -a
+  299  cd ..
+  300  ls -a
+  301  cd hint4
+  302  cat hint4
+  303  cat hint5
+  304  cd mystery
+  305  ls -a
+  306  cd interviews
+  307  ls -a
+  308  head -n 173 streets/Mattapan_Street | tail -n 1
+  309  cat interview-17343208
+  310  cd ..
+  311  ls -a
+  312  grep "Annabel" people
+  313  cat people
+  314  ls
+  315  ls -a
+  316  grep -b 3 -a 2 "Annabel" vehicles
+  317  grep -B 4 -A 3 "Annabel" vehicles
+  318  grep -B 5 -A 3 "Annabel" vehicles
+  319  ls ..
+  320  cat hint4
+  321  cd ..
+  322  cat hint4
+  323  cat hint5
+  324  	head -n 173 streets/Mattapan_Street | tail -n 1
+  325  cd mystery
+  326  	head -n 173 streets/Mattapan_Street | tail -n 1
+  328  grep "9437737" interviews
+  329  ls -a
+  330  cd interviews
+  331  grep "9437737" interviews
+  332  la -a
+  333  ls -a
+  334  cat interview-9437737
+  335  cd ..
+  336  ls -a
+  337  cd ..
+  338  cat hint6
+  339  cat hint7
+  340  cat hint5
+  341  cd mystery
+  342  ls -a
+  343  cd streets
+  344  ls -a
+  345  	head -n 173 Mattapan_Street | tail -n 1
+  346  head -n 173 Hart_Place | tail -n 1
+  347  ls -a
+  348  cd ..
+  349  cd interviews
+  350  ls -a
+  351  cat interview-9437737
+  352  cd ..
+  353  ls -a
+  354  cd ..
+  355  ls -a
+  356  cat hint6
+  357  cat hint7
+  358  cat hint8
+  359  cd mystery
+  360  ls -a
+  361  cd ..
+  362  ls -a
+  363  README.md
+  364  file README.md
+  365  open README.md
+  366  open cheatsheet.md
+  367  cat hint1
+  368  ls -a
+  369  grep "hint" crimescene
+  370  grep "Clue" crimescene
+  371  grep "CLUE" crimescene
+  372  ls -a
+  373  grep "Annabel" people
+  374  grep -B 4 -A 4 "Annabel" vehicles
+  375  cd memberships
+  376  ls -a
+  377  grep "Annabel" AAA
+  378  grep "Annabel" Delta_SkyMiles
+  379  cd ..
+  380  ls -a
+  381  cd ..
+  382  cat hint
+  383  cat hint1
+  384  cat hint2
+  385  cat hint4
+  386  cat hint3
+  387  cat hint4
+  388  cat hint 5
+  389  cat hitn5
+  390  cat hint5
+  391  cd mystery
+  392  head -n 173/Mattapan_Street | tail -n 1
+  393  head -n 173 streets/Mattapan_Street | tail -n 1
+  394  head -n 173 streets/Haley_Street | tail -n 1
+  395  head -n 176 streets/Haley_Street | tail -n 1
+  396  cd interviews
+  397  ls -a
+  398  cat interview-871877
+  399  cd ..
+  400  head -n 179 streets/Buckingham_Place | tail -n 1
+  401  cd interviews
+  402  cat interview-699607
+  403  cd ..
+  404  ls -a
+  405  grep "Honda" vehicles
+  406  grep "L337" vehicles
+  407  grep -B 4 -A 3 "L337" vehicles
+  408  grep -A 5 "L337" vehicles
+  409  ls -a
+  410  cd ..
+  411  cat hint6
+  412  hint7
+  413  cat hint7
+  414  cat hint8
+  415  cd mystery
+  416  cd mem
+  417  cd memberships
+  418  ls -a
+  419  cat AAA Delta_SkyMiles
+  420  ls -a
+  421  grep AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History "Erika"
+  422  grep AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History "Joe"
+  423  grep AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History "Jeremy"
+  424  cd ..
+  425  ls -a
+  426  cat hint8
+  427  cd mystery
+  428  cd memberships
+  429  ls -a
+  430  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Erika Owens"
+  431  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe Germuska"
+  432  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers"
+  433  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jacqul Maher"
+  434  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jacqul"
+  435  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy"
+  436  cd ..
+  437  ls -a
+  438  cd ..
+  439  ls -a
+
+The killer is Jeremy Bowers
