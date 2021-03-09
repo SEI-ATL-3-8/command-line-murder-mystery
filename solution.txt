@@ -163,6 +163,6 @@
   299  touch solution.txt
   300  ls
 
-  Killer: Jeremy Bowers
+  Killer: Jeremy Bowers, yay!
 
 
