@@ -1,0 +1,72 @@
+ 460  grep "Annabel" people
+  461  cd ..
+  462  grep "Annabel" people
+  463  clear
+  464  cd ll
+  465  cd ..
+  466  ls -a
+  467  cd mystery
+  468  ls -a
+  469  grep "CLUES" crimescene
+  470  grep "CLUE" crimecene
+  471  grep "CLUE" crimescene
+  472  grep "Annabel" people
+  473  head -n 173 streets/Mattapn_Street | tail -n 1
+  474  cd ..
+  475  head -n 173 streets/Mattapan_Street | tail -n 1
+  476  head -n 173 streets
+  477  head -n 20 streets
+  478  cd streets
+  479  ls -a
+  480  cd mystery
+  481  head -n 173 streets/Mattapan_Street | tail -n 1
+  482  head -n 176 streets/Haley_Street | tail -n 1
+  483  cd streets
+  484  cat Haley_Street
+  485  cd ..
+  486  ls -a
+  487  cd interviews
+  488  cat INTERVIEW #871877
+  489  cat SEE INTERVIEW #871877
+  490  cat SEE INTERVIEW #9437737
+  491  ls
+  492  cat interview-871877
+  493  cat interview-
+  494  generator shuns holidayed jobber shambles
+  495  strutting reemerged havens ministrant gentrified
+  496  abrogating upgrading fiestas mottled divider
+  497  fog piglets barest jaywalkers tonne binging nudist denseness
+  498  malleability immunization outwears
+  499  instantaneously garotes bluntly apologies
+  500  cat
+  501  cd Homework
+  502  ls -a
+  503  cd command-line-murder-mystery
+  504  ls -a
+  505  cd mystery
+  506  ls -a
+  507  cd interviews
+  508  cat interview-9437737
+  509  cat interview-871877
+  510  cat interview-9437737
+  511  cd ..
+  512  grep Honda vehicles
+  513  grep "Blue" vehicles
+  514  grep L337 vehicles
+  515  head -n 40 vehicles
+  516  grep -A 5 L337 mystery/vehicles
+  517  cd vehicles
+  518  ls -a
+  519  grep -A 5 L337 vehicles
+  520  cat Fitness_Galaxy AAA United_MileagePlus | grep John Smith
+  521  cd memberships
+  522  cat Fitness_Galaxy AAA United_MileagePlus | grep John Smith
+  523  cat Fitness_Galaxy AAA United_MileagePlus | grep -c John Smith
+  524  cat AAA Delta_SkyMiles Museum_of_Bash_History library | grep Jacqui Maher
+  525  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep Jacqui Maher
+  526  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep Jeremy Bowers
+  527  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep Joe Germuska
+  528  cd ../..
+  529  history
+
+Jeremy Bowers
