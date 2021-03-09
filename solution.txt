@@ -1,0 +1,271 @@
+    1  pwd
+    2  ls
+    3  cd documents
+    4  ls
+    5  ls
+    6  ls -a
+    7  cd ..
+    8  pwd
+    9  mkdir myfolder
+   10  ls
+   11  cd myfolder
+   12  touch index.html style.css
+   13  rm style.css
+   14  ls
+   15  cd ..
+   16  rm -r myfolder
+   17  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   18  123123Aa
+   19  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   20  brew help
+   21  git --version
+   22  mkdir GA-Blog
+   23  cd GA-Blog
+   24  git init
+   25  pwd
+   26  la -a
+   27  git status
+   28  pwd
+   29  mkdir .git/
+   30  ls -a
+   31  git status
+   32  touch my-first-post.txt
+   33  git add my-first-post.txt
+   34  git status
+   35  git add .
+   36  git commit -m 'created a new post.txt file'
+   37  git log
+   38  brew install --cask iterm2
+   39  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   40  witchbrew
+   41  brew doctor
+   42  which brew
+   43  ^[[200~Warning: Unbrewed header files were found in /usr/local/include.
+   44  If you didn't put them there on purpose they could cause problems when\nbuilding Homebrew formulae, and may need to be delete\n\n\n\n
+   45  brew install zsh
+   46  chsh -s /bin/zsh
+   47  echo $SHELL
+   48  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   49  brew install --cask iterm2
+   50  brew install zsh
+   51  chsh -s /bin/zsh
+   52  echo $SHELL
+   53  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   54  brew install git
+   55  git --version
+   56  brew upgrade git
+   57  git --version
+   58  brew install --cask visual-studio-code
+   59  code
+   60  git config --global credential.helper 'cache --timeout=28800'
+   61  pwd
+   62  ls
+   63  ls -l
+   64  ls -a
+   65  cd Downloads
+   66  pwd
+   67  ls
+   68  cd ..
+   69  pwd
+   70  cd documents
+   71  pwd
+   72  ls
+   73  cd intro_to_command_line-main
+   74  ls -l -a
+   75  cd mansion
+   76  ls -l -a
+   77  pwd
+   78  cd entry_hall
+   79  ls -l -a
+   80  cd coat closet
+   81  touch coat_off
+   82  ls -l -a
+   83  rm coat_off
+   84  ls -l -a
+   85  touch coat_off.txt
+   86  ls -l -a
+   87  cd ..
+   88  pwd
+   89  cd entry_hall
+   90  cd ..
+   91  cd east_wing
+   92  ls -l -a
+   93  la -l -a
+   94  cd dining_room
+   95  la -l -a
+   96  rm sandwhich.txt
+   97  ls -l -a
+   98  rm sandwhich
+   99  rm sandwich.txt
+  100  la -l -a
+  101  cp chair.txt
+  102  ls -l -a
+  103  cp chair_2.txt
+  104  cp chair_2.txt dining_room
+  105  la -l -a
+  106  cp chair.txt dining_room
+  107  la -l -a
+  108  rm dining_room
+  109  la -l -a
+  110  cp chair.txt chair_2.txt
+  111  la -l -a
+  112  cp chair.txt chair_3.txt
+  113  cp chair.txt chair_4.txt
+  114  la -l -a
+  115  cd ../guest_bedroom
+  116  la -l -a
+  117  cd mansion
+  118  cd ~
+  119  pwd
+  120  cd documents
+  121  cd intro
+  122  cd intro_to_command_line-main
+  123  cd mansion
+  124  cd east_wing
+  125  ls -l -a
+  126  cd guest_bedroom
+  127  cd ..
+  128  cd guest_bedroom
+  129  cd mansion
+  130  cd ../..
+  131  cd west_wing/master_bedroom
+  132  la -l -a
+  133  mv mirror.txt smashed_mirror.txt
+  134  la -l -a
+  135  mkdir cardboard_box
+  136  mv smashed_mirror.txt cardboard_box
+  137  cd cardboard_box
+  138  la -l -a
+  139  cd ..
+  140  cd .secret_passage
+  141  la -l -a
+  142  mv .family_heirloom.txt ../
+  143  cd ..
+  144  la -l -a
+  145  rm -r .secret_passage
+  146  la -l -a
+  147  cd ../..
+  148  cd ~
+  149  pwd
+  150  cd Documents
+  151  touch .intermediate.txt
+  152  la -l -a
+  153  cat .intermediate.txt
+  154  echo this > .intermediate.txt
+  155  cat .intermediate.txt
+  156  echo this is just a test >> .intermediate.txt
+  157  cat .intermediate.txt
+  158  echo this is just a test > .intermediate.txt
+  159  cat .intermediate.txt
+  160  echo this is just a test case > .intermediate.txt
+  161  cat .intermediate.txt
+  162  echo 'this', 'just', 'a', 'test', 'case' > .intermediate.txt
+  163  cat .int
+  164  cat .intermediate.txt
+  165  echo "this", "is", "just", "test" > .intermediate.txt
+  166  cat .intermediate.txt
+  167  echo this is just a test case > .intermediate.txt
+  168  cat .intermediate.txt
+  169  cat .intermediate.txt | grep 'this' .intermediate.txt
+  170  cat .intermediate.txt | grep 's' .intermediate.txt
+  171  cat .intermediate.txt | grep 'a', 'is' .intermediate.txt
+  172  pwd
+  173  ls
+  174  cd Documents
+  175  mkdir GA
+  176  ls
+  177  cd GA
+  178  mkdir Homework
+  179  ls
+  180  mkdir Projects
+  181  ls
+  182  mkdir Notes
+  183  ls
+  184  mkdir lesson plans
+  185  la
+  186  ls
+  187  cd lesson\ plans
+  188  git clone https://github.com/SEI-ATL-3-8/git-pull-request-practice-.git
+  189  ls
+  190  cd git-pull-request-practice-
+  191  ls
+  192  touch txt.txt
+  193  ls
+  194  git checkout -b sam blum pull
+  195  git checkout -b sam-blum-pull
+  196  git status
+  197  git add txt.txt
+  198  get status
+  199  git status
+  200  git commit -m 'here is my first pulll request'
+  201  git push origin sam-blum-pull 
+  202  cd GA
+  203  cd documents
+  204  cd GA
+  205  cd homework
+  206  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  207  ls
+  208  cd command-line-murder-mystery
+  209  git checkout -b sam-homework
+  210  git status
+  211  ls -l -a
+  212  cd mystery
+  213  ls -l -a
+  214  cd crimescene
+  215  cat crimescene
+  216  cat crimescene| grep 'CLUE' crimescene
+  217  pwd
+  218  cd interview
+  219  cd interviews
+  220  ls -l -a
+  221  cd ..
+  222  pwd
+  223  cd streets
+  224  ls -l -a
+  225  cd ..
+  226  cat people
+  227  cat people | grep 'Annabel' people
+  228  cd memberships
+  229  ls -l -a
+  230  cat AAAe | grep 'annabel' AAA
+  231  cat AAA | grep 'annabel' AAA
+  232  cd AAA
+  233  cat AAA | grep 'Annabel' AAA
+  234  cat Delta_SkyMiles | grep 'Annabel' Delta_SkyMiles
+  235  cat Museum_of_Bash_History | grep 'Annabel' Museum_of_Bash_History
+  236  cat Terminal_City_Library | grep 'Annabel' Terminal_City_Library
+  237  cd ..
+  238  cd streets
+  239  cd ..
+  240  cat vehicles
+  241  cat vehicles | grep 'Fuglsang' vehicles
+  242  cat vehicles | grep 'Fuglsang' -A 3 -B 3 vehicles
+  243  cat hint 1
+  244  cat hint1
+  245  cd ..
+  246  cat hint1
+  247  head -n 20 people
+  248  cd hint2
+  249  cat hint2
+  250  cat hint3
+  251  cat hint4
+  252  cat hint5
+  253  pwd
+  254  cd mystery
+  255  cd interviews
+  256  head -n 176 streets/Haley_Street | tail -n 1
+  257  cd ..
+  258  cd streets
+  259  head -n 176 streets/Haley_Street | tail -n 1
+  260  cd Haley_Street
+  261  head -n 176 streets/Haley_Street | tail -n 1
+  262  cd ..
+  263  cd ~
+  264  cd documents
+  265  cd GA
+  266  cd homework
+  267  cd command-line-murder-mystery
+  268  touch solution.txt
+  269  git status
+  270  history > history_for_solution.txt
+Annabel Fuglsang
