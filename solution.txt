@@ -1,0 +1,139 @@
+1. Jeremy Bowers
+2. At first, I was extremely clueless and wasn't so what to do. I just randomly ran some of the code. After reading the hints and clues a few more
+times, I realized I was suppose to find the correct Annabel witness. I tried did a look at Annabel Church and found a interview #. I was lucky
+enough to find the correct witness at first shot. After, I did a search on the license plate and car model to narrrow down
+the suspects. Jeremy Bowers and Joe Germuska fitted the description so far, both at least 6', correct model and license plate.
+To finalize everything, I needed to make sure they have all 4 memberships provided in the clues. Museum_of_Bash_History, AAA, Delta_SkyMiles,
+and Local Library. Jeremy Bowers fitted the description. I am not so sure if this was correct. So, I tried to look through
+the other witnesses as well just in case I was wrong. 
+270* cat hint1
+  271* clear
+  272* cat hint2
+  273  cat crimescene
+  274  grep "CLUE" crimescene
+  275* cat hint3
+  276* cat hint4
+  277* cat hint5
+  278* cat hint6
+  279* cat hint7
+  280  ls
+  281  cd memberships
+  282  grep "Annabel" Delta_SkyMiles
+  283  clear
+  284  ls
+  285  cd ../
+  286  grep "Annabel" people
+  287  cd memberships
+  288  grep "Olu"
+  289  grep "Olu" AAA
+  290  grep "Olu" Delta_SkyMiles
+  291  cat Delta_SkyMiles
+  292  clear
+  293  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Annabel"
+  294  cd ../
+  295  grep "Oluwasegun" *
+  296  grep "Oluwasegun" * -A -n 4
+  297  grep -A -n 4 "Oluwasegun" *
+  298  grep -A 4 "Oluwasegun" *
+  299  grep -A 4 "Annabel Church" *
+  300  cd interviews
+  301  clea3r
+  302  clear
+  303  grep "Annabel Church" *
+  304  grep "Annabel" *
+  305  clear
+  306  ls
+  307* cat hint6
+  308* cat hint7
+  309* cat hint 4
+  310* cat hin4
+  311* cat hint5
+  312  cd ../
+  313  grep -A 4 "Annabel Church" *
+  314  grep "Annabel" people
+  315  head -n 179 people
+  316  head -n 179 people | tail n-1
+  317  head -n 179 people | tail -n -1
+  318  cd interviews
+  319  ls
+  320  cat interview-255531
+  321  cd ../
+  322  ls
+  323  cd streets
+  324  ls
+  325  cat Buckingham_Place
+  326  cd ../
+  327  cd interviews
+  328  cat interview-699607
+  329  cd ..
+  330  clear
+  331  grep "L337"
+  332  grep "L337" vehicles
+  333* grep "CLUE" mystery/crimescene
+  334  grep -A 4  "L337" vehicles
+  335* cat hint3
+  336* cat hint5
+  337* cat hint6
+  338* cat hint7
+  339* cat hint8
+  340  cd memberships
+  341  grep "Joe" *
+  342  clear
+  343  grep -A 4  "L337" vehicles
+  344  cd ../
+  345  grep -A 4  "L337" vehicles
+  346  cd ../
+  347  cd mystery
+  348  cd memberships
+  349  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Jeremy Bowers"
+  350  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Jacqui Maher"
+  351  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Miranda"
+  352  run history
+  353  history
+  354* grep "Annabel"
+  355* grep "Annabel" instructions
+  356  grep "Annabel" people
+  357  grep "Annabel" ../people
+  358  ls
+  359  cat ../streets/Hart_Place
+  360  clear
+  361  cat ../interviews/interview-47246024
+  362  grep "Annabel" ../people
+  363  cat ../streets/Mattapan_Street
+  364  cat ../interviews/interview-9437737
+  365  grep "Annabel" ../people
+  366  cat ../streets/Haley_Street
+  367  cat ../interviews/interview-871877
+  368  run history
+  369  history
+  370  cd ../../
+  371  touch solutions.txt
+  372  code .
+  373  ls
+  374  cd mystery
+  375  cd interviews
+  376  cat interview-255531
+  377  cat interview-699607
+  378  cat hint *
+  379  clear
+  380  cat hin4
+  381  cat hint4
+  382  cd ../
+  383  cat hint4
+  384  cd ../
+  385  cd mystery
+  386  clear
+  387  ls
+  388  cat crimescene
+  389  clear
+  390  grep "CLUE" crimescene
+  391  cat interviews/interview-699607
+  392  grep -A 4 "L337" vehicles
+  393  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Jeremy Bowers"
+  394  cd interviews
+  395  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Jeremy Bowers"
+  396  cd ../
+  397  cd memberships
+  398  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Jeremy Bowers"
+  399  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Joe Germuska"
+  
