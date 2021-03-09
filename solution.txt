@@ -1,0 +1,484 @@
+Killer is Jeremy Bowers
+    1  hello
+    2  where am I?
+    3  pwd
+    4  ls
+    5  cd Downloads
+    6  ls
+    7  $ ls
+    8  ls -a
+    9  cd ..
+   10  pwd
+   11  ls
+   12  mkdir myfolder
+   13  ls
+   14  cd myfolder
+   15  touch index.html style.css
+   16  ls
+   17  rm style.css
+   18  ls
+   19  cd ~
+   20  pwd
+   21  ls
+   22  rm -r myfolder
+   23  ls
+   24  ls -a Documents
+   25  pwd
+   26  cd Downloads
+   27  ls
+   28  cd World
+   29  pwd
+   30  ls
+   31  ls -a
+   32  ls -a Africa
+   33  ls -a Asia
+   34  ls -a Australia
+   35  ls -a Europe
+   36  exit
+   37  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   38  echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/graymok/.zprofile
+   39  echo 'eval $(/opt/homebrew/bin/brew shellenv)'
+   40  eval $(/opt/homebrew/bin/brew shellenv)
+   41  $ brew install git
+   42  brew install git
+   43  git --version
+   44  pwd
+   45  ls
+   46  cd Desktop
+   47  cd GA-Blog
+   48  mkdir GA-Blog
+   49  cd GA-Blog
+   50  git init
+   51  pwd
+   52  ls -a
+   53  git status
+   54  touch my-first-post.txt
+   55  git status
+   56  git add my-first-post.txt
+   57  git status
+   58  git commit -m "created a new post.txt file"
+   59  git status
+   60  git log
+   61  pwd
+   62  brew install node
+   63  xcode-select --install
+   64  xcode-select --install
+   65  brew install node
+   66  which brew
+   67  xcode-select --version
+   68  brew install --cask iterm2
+   69  echo $SHELL
+   70  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\n
+   71  git --version
+   72  code .
+   73  code ~/.zshrc
+   74  git config --global credential.helper 'cache --timeout=28800'
+   75  pwd
+   76  ls
+   77  ls -l
+   78  ls -a
+   79  ls -l -a
+   80  cd Desktop
+   81  pwd
+   82  cd Downloads
+   83  cd home
+   84  cd graymok
+   85  cd
+   86  pwd
+   87  cd Desktop
+   88  ls -l
+   89  cd GA-Blog
+   90  ls -l -a
+   91  ls -l
+   92  cd
+   93  pwd
+   94  cd GA SEI
+   95  cd Desktop
+   96  cd
+   97  pwd
+   98  cd ../.. GA SEI
+   99  pwd
+  100  cd Desktop
+  101  cd GA SEI
+  102  pwd
+  103  ls -l
+  104  cd GA SEI
+  105  cd GASEI
+  106  ls -l
+  107  cd GA-SEI
+  108  cd ..
+  109  cd GA-Blog
+  110  ls -l
+  111  mv my-first-post.text GA-SEI
+  112  mv my-first-post.text Desktop\ /GA-SEI
+  113  mv my-first-post.text/GA-Blog GA-SEII
+  114  mv my-first-post.text ../GA-SEI
+  115  mv my-first-post.txt ../GA-SEI
+  116  ls -l
+  117  cd ..
+  118  cd GA-SEI
+  119  ls -l
+  120  mv my-first-post.text ../GA-Blog
+  121  mv my-first-post.txt ../GA-Blog
+  122  pwd
+  123  cd ..
+  124  ls -l
+  125  cd intro_to_command_line-main
+  126  ls -l -a
+  127  cd mansion
+  128  pwd
+  129  ls -l -a
+  130  cd entry_hall
+  131  pwd
+  132  ls -l
+  133  ls -l -a
+  134  cd coat_closet
+  135  ls -l -a
+  136  cp fur_coat.txt tims_jacket.txt
+  137  ls -l
+  138  cd ..
+  139  cd ../..
+  140  cd mansion
+  141  ls -l
+  142  cd east_wing
+  143  ls -l -a
+  144  cd dining_room
+  145  ls -l
+  146  rm sandwich.txt
+  147  ls -l
+  148  cp chair.txt chair_1.txt
+  149  cp chair.txt chair_2.txt
+  150  cp chair_txt chair_3.txt
+  151  cp chair.txt chair_3.txt
+  152  ls -l
+  153  mv chair.txt chair_4.txt
+  154  ls -l
+  155  cd east_wing\ guest_bedroom
+  156  cd .. guest_bedroom
+  157  cd ..\ guest_bedroom
+  158  cd guest_bedroom east_wing\\n
+  159  cd ../guest_bedroom
+  160  cd ../../mansion
+  161  cd ../mansion
+  162  cd ../..
+  163  ls -l
+  164  cd west_wing/master_bedroom
+  165  ls -l -a
+  166  mv mirror.txt smashed_mirror.txt
+  167  ls -l -a
+  168  mkdir cardboard_box
+  169  ls -l -a
+  170  mv smashed_mirror.txt /cardboard_box
+  171  mv smashed_mirror.txt cardboard_box
+  172  ls -l -a
+  173  cd .secret_passage
+  174  ls -l -a
+  175  mv .family_heirloom.txt ..
+  176  ls -l -a
+  177  cd ..
+  178  ls -l -a
+  179  rm -r .secret_passage
+  180  ls -l -a
+  181  cd ..
+  182  cat > intermediate.txt
+  183  ls -l -a
+  184  cat intermediate.txt
+  185  rm intermediate.txt
+  186  ls -l -a
+  187  cat > intermediate.txt
+  188  cat intermediate.txt
+  189  cat >> intermediate.txt
+  190  cat intermediate.txt
+  191  grep test intermediate.txt
+  192  grep this intermediate.txt
+  193  grep is intermediate.txt
+  194  grep just intermediate.txt
+  195  grep a intermediate.txt
+  196  grep case intermediate.txt
+  197  echo this intermediate.txt
+  198  echo this > intermediate.txt
+  199  cat intermediate.txt
+  200  echo this is just a test > intermediate.txt
+  201  cat intermediate.txt
+  202  grep test intermediate.txt
+  203  history
+  204  cat intermediate.txt
+  205  cat > intermediate.txt
+  206  cat intermediate.txt
+  207  echo "this is just a test" > intermediate.txt
+  208  cat intermediate.txt
+  209  cat intermediate.txt | grep "test" intermediate.txt
+  210  grep 
+  211  grep "test" intermediate.txt
+  212  pwd
+  213  cd ../
+  214  pwd
+  215  ls -l -a
+  216  ls -l
+  217  cd documents/
+  218  pwd
+  219  cd ..
+  220  ls
+  221  cd Desktop
+  222  pwd
+  223  ls -l
+  224  cd GA-SEI
+  225  pwd
+  226  ls -l
+  227  ls
+  228  mkdir sei_projects mkdir sei_homework
+  229  ls -l
+  230  ls -l -a
+  231  ls -l
+  232  rm -r mkdir
+  233  ls -l
+  234  mkdir sei_lessons
+  235  ls -l
+  236  cd sei_lessons
+  237  git clone https://github.com/SEI-ATL-3-8/git-pull-request-practice-.git
+  238  ls -l
+  239  cd git-pull-request-practice-
+  240  ls
+  241  touch text.txt
+  242  ls
+  243  git checkout -b tim-mok-first-pull
+  244  git status
+  245  git add text.txt
+  246  git status
+  247  git commit -m 'i just finished my first pull request!'
+  248  git config --global user.name "Tim Mok"
+  249  git config --global user.email timothyjmok@gmail.com
+  250  git status
+  251  git push origin tim-mok-first-pull
+  252  cd ..
+  253  ls -l
+  254  cd ..
+  255  ls -l
+  256  cd sei_homework
+  257  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  258  ls -l
+  259  cd command-line-murder-mystery
+  260  ls
+  261  git checkout -b tmok-hw1-cl-murder-mystery
+  262  ls
+  263  git status
+  264  cd mystery
+  265  ls -l
+  266  ls -l -a
+  267  cd crimescene
+  268  cat crimescene
+  269  ls -l
+  270  cd interviews
+  271  ls -l
+  272  cat interview-000296
+  273  ls -l
+  274  cd ..
+  275  ls -l
+  276  cat people
+  277  ls -l
+  278  grep clue crimescene
+  279  grep "clue" crimescene
+  280  cat crimescene
+  281  grep CLUE crimescene
+  282  ls -l
+  283  pwd
+  284  ls -l
+  285  cd Desktop
+  286  ls -l
+  287  cd GA-SEI
+  288  ls -l
+  289  cd sei_homework
+  290  ls -l
+  291  cd command-line-murder-mystery
+  292  history
+  293  ls -l
+  294  cd mystery
+  295  ls -l
+  296  grep CLUE crimescene
+  297  cat people
+  298  grep CLUE crimescene
+  299  ls -l
+  300  grep Annabel people
+  301  cd memberships
+  302  ls -l
+  303  grep Annabel AAA
+  304  grep Annabel Delta_SkyMiles
+  305  greb Annabel library.txt
+  306  grep Annabel library.txt
+  307  grep Annabel museum.txt
+  308  grep ATM crimescene
+  309  cd ..
+  310  grep ATM crimescene
+  311  cd streets
+  312  ls -l
+  313  cd ..
+  314  ls -l
+  315  cat vehicles
+  316  grep "6'" vehicles
+  317  ls -l
+  318  grep CLUE crimescene
+  319  grep Annabel vehicles
+  320  grep -c 3 Annabel vehicles
+  321  grep --help
+  322  grep -C 3 Annabel vehicles
+  323  grep spiky crimescene
+  324  grep New Zealand crimescene
+  325  grep "New Zealand" crimescene
+  326  grep -C 3 "New Zealand" crimescene
+  327  grep CLUE crimescene
+  328  cd ..
+  329  ls -l
+  330  cat hint1
+  331  cat hint2
+  332  cat hint3
+  333  cat hint4
+  334  cat hint5
+  335  cd mystery
+  336  head -n 20 people
+  337  head -n 30 people
+  338  cd ..
+  339  cat hint5
+  340  cat hint6
+  341  cat hint7
+  342  cat hint8
+  343  ls -l
+  344  cd mystery
+  345  ls -l
+  346  grep CLUE crimescene
+  347  grep Annabel people
+  348  cd ..
+  349  cat hint1
+  350  cat hint2
+  351  cat hint3
+  352  cd mystery
+  353  head -n 20 vehicles
+  354  grep "Height: 6'" vehicles
+  355  grep C-3 "Height: 6'" vehicles
+  356  grep C- 3 "Height: 6'" vehicles
+  357  grep -C 3 "Height: 6'" vehicles
+  358  grep -A 4 "Height: 6'" vehicles
+  359  head -n 20 vehicles
+  360  grep -B 4 "Height: 6'" vehicles
+  361  grep -B 1 "Height: 6'" vehicles
+  362  grep -B 1 "Height: 6'"|"Owner: Annabel" vehicles
+  363  pwd
+  364  cd Desktop
+  365  cd GA-SEI
+  366  cd sei_homework
+  367  cd command-line-murder-mystery
+  368  cd mystery
+  369  ls -l
+  370  grep CLUE crimescene
+  371  grep -C 4 CLUE crimescene
+  372  grep -B 3 CLUE crimescene
+  373  grep -C 5 #912464709392 crimescene
+  374  grep CLUE crimescene
+  375  ls -l
+  376  cd interviews
+  377  ls -l
+  378  cat hint2
+  379  cd ../..
+  380  cat hint2
+  381  cat hint3
+  382  cat hint4
+  383  cat hint5
+  384  cat hint6
+  385  cd mystery
+  386  head -n 173 streets/Mattapan_Street | tail -n 1
+  387  ls -l
+  388  grep Annabel streets
+  389  grep Annabel people
+  390  head -n 179 streets/Buckingham_Palace | tail -n 1
+  391  grep CLUE crimescene
+  392  grep barista crimescene
+  393  head -n 10 people
+  394  ls -l
+  395  grep coffee crimescene
+  396  cd streets
+  397  ls -l
+  398  grep buckingham streets
+  399  ls -l
+  400  cd ..
+  401  ls -l
+  402  grep CLUE crimescene
+  403  cd vehicles
+  404  head -n 10 vehicles
+  405  cd ..
+  406  cat hint1
+  407  cat hint2
+  408  cat hint3
+  409  cat hint4
+  410  cat hint5
+  411  cat hint6
+  412  cat hint7
+  413  cat hint8
+  414  cd mystery
+  415  head -n 20 people
+  416  grep CLUE crimescene
+  417  cat crimescene
+  418  grep CLUE crimescene
+  419  grep Annabel people
+  420  cd memberships
+  421  ls -l
+  422  grep church AAA
+  423  grep Annabel AAA
+  424  grep Annabel Terminal_City_library
+  425  grep Annabel Museum_of_Bash_History
+  426  cd ..
+  427  head -n 173 streets/Mattanpan_Street | tail -n 1
+  428  head -n 173 streets/Mattapan_Street | tail -n 1
+  429  cd interviews
+  430  cat INTERVIEW #9437737
+  431  ls
+  432  cat interview-9437737
+  433  cd ..
+  434  cd streets
+  435  ls
+  436  head -n 179 streets/Buckingham_Palace | tail -n 1
+  437  head -n 179 streets/Buckingham_Place | tail -n 1
+  438  grep Buckingham streets
+  439  cd ..
+  440  head -n 179 streets/Buckingham_Place | tail -n 1
+  441  cd interviews
+  442  cat interview-699607
+  443  cd ..
+  444  ls
+  445  head -n 20 vehicles
+  446  grep "Plate L337" vehicles
+  447  grep -a 3 "Plate L337" vehicles
+  448  grep -A 3 "Plate L337" vehicles
+  449  grep -A 3 "Plate L337" vehicles | grep "Make: Honda" vehicles | grep "Color: Blue" vehicles
+  450  grep -A 3 "Plate L337" vehicles
+  451  cat interview-699607
+  452  cd interviews
+  453  cat interview-699607
+  454  cd ..
+  455  cd memberships
+  456  cd ..
+  457  grep CLUE crimescene
+  458  cd memberships
+  459  ls
+  460  cat library.txt
+  461  ls -l
+  462  cd ..
+  463  grep CLUE crimescene
+  464  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Erika Owens"
+  465  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Aron"
+  466  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Aron Pilhofer"
+  467  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Heather Billings"
+  468  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Joe Germuska"
+  469  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Jeremy Bowers"
+  470  cd memberships
+  471  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Jeremy Bowers"
+  472  cd ../..
+  473  ls -l
+  474  touch solution.txt
+  475  ls -l
+  476  echo "Killer is Jeremy Bowers" > solution.txt
+  477  cat solution.txt
+  478  history >> solution.txt
+  479  cat solution.txt
+  480  echo "Killer is Jeremy Bowers" > solution.txt
+  481  cat solution.txt
+  482  history | grep -W 252 >> solution.txt
+  483  cat solution.txt
