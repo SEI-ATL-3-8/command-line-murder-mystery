@@ -1,0 +1,168 @@
+  137  cd ga_homeworks
+  138  git clone https://github.com/mbrown22001/command-line-murder-mystery.git
+  139  ls
+  140  cd command-line-murder-mystery/
+  141  ls
+  142  cat instructions
+  143  ls
+  144  cd mystery/
+  145  ls
+  146  cat crimescene
+  147  ls
+  148  cat crimescene
+  149  ls
+  150  cd ../
+  151  ls
+  152  cat instructions
+  153  ls
+  154  cd mystery/
+  155  ls
+  156  grep "CLUE" crimescene
+  157  cd interviews/
+  158  ls
+  159  grep "annabel" interview
+  160  ../
+  161  cd ../
+  162  ls
+  163  head -n 20 people
+  164  grep "Annabel" people
+  165  grep "line 173" street/
+  166  ls
+  167  grep "line 173" streets/
+  168  cd streets/
+  169  grep "line 173"
+  170  pwd
+  171  ls
+  172  cd Documents/
+  173  ls
+  174  cd ga/
+  175  ls
+  176  cd ga_homeworks/
+  177  ls
+  178  cd command-line-murder-mystery/
+  179  ls
+  180  cd mystery/
+  181  ls
+  182  cd streets/
+  183  cd ../
+  184  ls
+  185  grep "Annabelle" people
+  186  ls
+  187  grep "Annabel" people
+  188  cd streets/
+  189  head -n 173 streets/Mattapan_Street | tail -n 1
+  190  head -n 173 streets/Mattapan Street | tail -n 1
+  191  cd ../
+  192  head -n 173 streets/Mattapan_Street | tail -n 1
+  193  ls
+  194  cd interviews/
+  195  cat INTERVIEW #9437737
+  196  ls
+  197  cat interview-9437737
+  198  cd ../
+  199  ls
+  200  head -n 179 streets/Buckingham_Place | tail -n 1
+  201  cd interviews/
+  202  cat interview-699607
+  203  cd ../
+  204  ls
+  205  grep "L337" vehicles
+  206  cat License Plate L337ZR9
+  207  grep "Blue" vehicles
+  208  grep "L337" vehicles
+  209  head
+  210  ls
+  211  cd Documents/
+  212  ls
+  213  cd ga/
+  214  ls
+  215  ga_homeworks/
+  216  cd ga_homeworks/
+  217  ls
+  218  cd command-line-murder-mystery/
+  219  ls
+  220  cd mystery/
+  221  ls
+  222  grep "L337" vehicles
+  223  head License Plate L337ZR9
+  224  head vehicles
+  225  grep "L337" vehicles | head vehicles
+  226  grep -A 5 "L337" mystery/vehicles
+  227  cd ../
+  228  grep -A 5 "L337" mystery/vehicles
+  229  ls
+  230  cd mystery/
+  231  ls
+  232  cd interviews/
+  233  cd ../
+  234  ls
+  235  grep "Al Shaw" people
+  236  head -n 83 streets/Manton_Terrace | tail -n 1
+  237  cd interviews/
+  238  cat interview-30259493
+  239  cd ../
+  240  ls
+  241  grep "Annabel" people
+  242  head -n 176 streets/Haley_Street | tail -n 1
+  243  head -n 40 streets/Hart_Place | tail -n 1
+  244  head -n 179 streets/Buckingham_Place | tail -n 1
+  245  cat interview-871877
+  246  ls
+  247  cd interviews/
+  248  cat interview-871877
+  249  cat interview-699607
+  250  grep "CLUES" crimescene
+  251  cd ../
+  252  grep "CLUES" crimescene
+  253  grep "CLUE" crimescene
+  254  ls
+  255  memberships/
+  256  cd memberships/
+  257  cat AAA Delta_SkyMiles local_library Museum_of_Bash_History | grep "Erika Owens"
+  258  ls
+  259  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Erika Owens"
+  260  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Brian Boyer"
+  261  cd ../
+  262  ls
+  263  grep "Brian Boyer" people
+  264  head -n 183 streets/Harbor_Point_Boulevard | tail -n 1
+  265  cd interviews/
+  266  cat interview-628618
+  267  cd memberships/
+  268  ls
+  269  cd ../
+  270  ls
+  271  cd memberships/
+  272  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Miranda Mulligan"
+  273  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe Germuska"
+  274  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers"
+  275  cd ../
+  276  grep "Jeremy Bowers" people
+  277  ls
+  278  cd streets/
+  279  head -n 284 streets/Dunstable_Road | tail -n 1
+  280  cd ../
+  281  head -n 284 streets/Dunstable_Road | tail -n 1
+  282  ls
+  283  cd interviews/
+  284  cat interview-9620713
+  285  cd ../
+  286  cd memberships/
+  287  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jacqui Maher"
+  288  cd ../
+  289  grep -A 10 "L337" mystery/vehicles
+  290  grep -A 5 "L337" mystery/vehicles
+  291  ls
+  292  cd ../
+  293  grep -A 10 "L337" mystery/vehicles
+  294  grep "Brian Boyer" mystery/vehicles
+  295  grep "L337WR9" mystery/vehicles
+  296  grep -A 20 "L337" mystery/vehicles
+  297  ls
+  298  dxmir Solution.txt
+  299  touch solution.txt
+  300  ls
+
+  Killer: Jeremy Bowers
+
+
