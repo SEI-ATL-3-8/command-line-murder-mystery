@@ -1,0 +1,557 @@
+   1  hi
+    2  ls
+    3  echo$SHELL
+    4  echo $SHELL
+    5  git --version
+    6  brew upgrade git
+    7  brew install --cask visual-studio-code
+    8  open ~/.zshrc
+    9  export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+   10  code .
+   11  code ~/.zshrc
+   12  ZSH_THEME="af-magic"
+   13  code ~/.zshrc
+   14  git config --global credential.helper 'cache --timeout=28800'
+   15  pwd
+   16  ls
+   17  pwd
+   18  ls -l
+   19  clear
+   20  ls -a
+   21  https://github.com/SEI-ATL-3-8/intro_to_command_line.git
+   22  pwd
+   23  clear
+   24  cd downloads
+   25  ls
+   26  cd intro to command line
+   27  cd intro_to_command_line-main
+   28  ls
+   29  cd mansion
+   30  ls
+   31  pwd
+   32  ls
+   33  LS
+   34  cd entryway
+   35  cd ..
+   36  ls
+   37  cd mansion
+   38  ls
+   39  cd entry_hall
+   40  ls
+   41  cd coat_closet
+   42  ls
+   43  touch my_jacket.text
+   44  ls
+   45  rm my_jacket.text
+   46  ls
+   47  touch my_jacket.txt
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd ..
+   52  ls
+   53  cd entry_hall
+   54  ls
+   55  cd coat_closet
+   56  ls
+   57  cd ../..
+   58  ls
+   59  cd east_wing
+   60  pwd
+   61  ls
+   62  cd dining_room
+   63  ls
+   64  rm sandwich.txt
+   65  ls
+   66  cp chair.txt
+   67  ls
+   68  cp -r chair.txt chair2.txt
+   69  ls
+   70  cp -r chair.txt chair3.txt
+   71  ls
+   72  cp -r chair.txt chair4.txt
+   73  ls
+   74  cd ../
+   75  ls
+   76  guest_bedroom
+   77  ls
+   78  cd ../..
+   79  ls
+   80  cd west_wing
+   81  ls
+   82  cd master_bedroom
+   83  ls
+   84  ls -l
+   85  mv mirror.txt smashed_mirror.txt
+   86  ls
+   87  ls -l
+   88  mkdir cardboard_box
+   89  ls
+   90  mv smashed_mirror.txt cardboard_box
+   91  ls
+   92  cd ../..
+   93  ls
+   94  cd west_wing
+   95  ls
+   96  cd master_bedroom
+   97  ls
+   98  ls -a
+   99  cd .secret_passage
+  100  ls
+  101  pwd
+  102  ls
+  103  ls -a
+  104  mv .family_heirloom.txt master_bedroom
+  105  la -a
+  106  ls -a
+  107  cd ../..
+  108  ls
+  109  cd master_bedroom
+  110  ls
+  111  ls -a
+  112  ls -l
+  113  cd ../
+  114  ls
+  115  cd ..
+  116  ls
+  117  west_wing
+  118  ls
+  119  cd master_bedroom
+  120  ls
+  121  ls -a
+  122  cd .secret_passage
+  123  ls
+  124  rm .secret_passage
+  125  ls
+  126  rm .secret_passage
+  127  pwd
+  128  rm -r .secret_passage
+  129  ls
+  130  ls -a
+  131  cd master_bedroom
+  132  cd ..
+  133  ls -a
+  134  cd .secret_passage
+  135  ls -a
+  136  cd ..
+  137  ls
+  138  ls -a
+  139  rm .secret_passage
+  140  rm -r .secret_passage
+  141  ls
+  142  ls -a
+  143  cd ../..
+  144  ls
+  145  cd ../..
+  146  cd ..
+  147  ls
+  148  cd documents
+  149  ls
+  150  touch intermediate.txt
+  151  ls
+  152  echo this > intermediate.txt
+  153  cat intermediate.txt
+  154  echo "is just a test case" > intermediate.txt
+  155  cat intermediate.txt
+  156  echo "adding another word" >> intermediate.txt
+  157  cat intermediate.txt
+  158  cat intermediate.txt | grep "word" intermediate.txt
+  159  mkdir homeworks
+  160  ls
+  161  cd homeworks
+  162  gh repo clone SEI-ATL-3-8/git-pull-request-practice-
+  163  cd homeworks
+  164  l
+  165  ls
+  166  mv git-pull-request-practice--main homeworks
+  167  cd ..
+  168  pwd
+  169  cd downloads
+  170  mv git-pull-request-practice--main homeworks
+  171  ls
+  172  cd ..
+  173  ls
+  174  cd document
+  175  cd documents
+  176  ls
+  177  cd homeworks
+  178  ls
+  179  ls -a
+  180  git checkout -b elias-new-branch
+  181  git statu
+  182  git status
+  183  cd ../..
+  184  ls
+  185  git checkout -b eliasramirez110
+  186  ls
+  187  cd downloads
+  188  ls
+  189  cd git-pull-request-practice--main.zip
+  190  ls
+  191  cd ..
+  192  mkdir ga homework
+  193  ls
+  194  cd ga
+  195  git clone https://github.com/SEI-ATL-3-8/git-pull-request-practice-.git
+  196  ls
+  197  cd git-pull-request-practice-
+  198  git checkout -b elias-branch
+  199  touch file.txt
+  200  git status
+  201  git add file.txt
+  202  git status
+  203  git commit -m 'first commit'
+  204  git push origin elias-branch
+  205  ls
+  206  git push origin elias-branch
+  207  git add file.txt
+  208  git commit -m 'second attempt at first commit'
+  209  echo this > file.txt
+  210  cat file.txt
+  211  echo this is a git commit practice > file.txt
+  212  cat file.txt
+  213  git add file.txt
+  214  git commit -m 'second attempt atgit commit'
+  215  git push origin elias-branch
+  216  git status
+  217  cd homework
+  218  cd
+  219  ls
+  220  cd downloads
+  221  ls
+  222  cd homeworks
+  223  https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  224  cd ga
+  225  cd ..
+  226  ls
+  227  ga git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  228  cd homework
+  229  cd ga
+  230  cd .. ga
+  231  cd ..
+  232  cd ga
+  233  git clone https://github.com/SEI-ATL-3-8/command-line-murder-mystery.git
+  234  ls
+  235  cd command-line-murder-mystery
+  236  cat instructions
+  237  ls
+  238  cd mystery
+  239  ls
+  240  cd crimescene
+  241  ls
+  242  cat crimescene
+  243  ls
+  244  cd interviews
+  245  ls
+  246  cd ..
+  247  ls
+  248  history
+  249  ls
+  250  cat crimescene
+  251  cat instruction
+  252  cat instructions
+  253  ls
+  254  cat people
+  255  ls
+  256  cat vehicles
+  257  ls
+  258  cat memberships
+  259  cd memberships
+  260  ls
+  261  cat newfile.txt
+  262  ls
+  263  cd ..
+  264  ls
+  265  cd streets
+  266  ls
+  267  cd ..
+  268  ls
+  269  cd ..
+  270  ls
+  271  cat cheatsheet.md
+  272  ls
+  273  cat hint1
+  274  head -n 20 people
+  275  hint2
+  276  cat hint2
+  277  hint3
+  278  cat hint3
+  279  cat hint4
+  280  hint5
+  281  cat hint5
+  282  cat hint6
+  283  cat hint7
+  284  ls
+  285  cd mystery
+  286  ls
+  287  cd ..
+  288  ls
+  289  cat hint1
+  290  cat hint2
+  291  ls
+  292  mystery
+  293  ls
+  294  grep "clue" crimescene
+  295  grep "CLUE" crimescene
+  296  cd ..
+  297  ls
+  298  cat hint3
+  299  ls
+  300  head hint3
+  301  head hint2
+  302  cat hint2
+  303  ls
+  304  cd mystery
+  305  ls
+  306  head people
+  307  head vehicles
+  308  cd ../..
+  309  ls
+  310  cd command-line-murder-mystery
+  311  ls
+  312  cat hint3
+  313  hint4
+  314  cat hint4
+  315  cd mystery
+  316  grep "Annabel" people
+  317  grep "CLUE" crimescene
+  318  ls
+  319  cd ..
+  320  ls
+  321  cat hint5
+  322  cd mystery
+  323  head -n 173 streets/Mattapan_Street | tail -n 1
+  324  ls
+  325  cd interviews
+  326  ls
+  327  cat interview-9437737
+  328  ls
+  329  cd ..
+  330  ls
+  331  cat interview-9437737
+  332  cd interviews
+  333  cat interview-9437737
+  334  head -n 173 streets/Mattapan_Street | tail -n 1
+  335  cd ..
+  336  head -n 173 streets/Mattapan_Street | tail -n 1
+  337  cd ..
+  338  ls
+  339  cat hint6
+  340  cat hint7
+  341  cd mystery
+  342  grep "Honda" vehicles
+  343  head -20
+  344  ls
+  345  cd ga
+  346  ls
+  347  cd command-line-murder-mystery
+  348  ls
+  349  cat hint6
+  350  ls
+  351  cat hint6
+  352  mystery
+  353  ls
+  354  head -n 20 people
+  355  head -n 20 vehicles
+  356  head -n 20 vehicles | "Honda"
+  357  head -n 20 vehicles | "Toyota"
+  358  ls
+  359  cd ..
+  360  ls
+  361  cat hint6
+  362  cat hint7
+  363  ls
+  364  cat hint8
+  365  mystery
+  366  ls
+  367  head -n 20 people
+  368  grep "CLUE" crimescene
+  369  head people
+  370  head vehicles
+  371  grep "Annabel"
+  372  ls
+  373  cd ga
+  374  ls
+  375  cd command-line-murder-mystery
+  376  ls
+  377  cd mystery
+  378  ls
+  379  grep "Annabel" people
+  380  cat people
+  381  grep "CLUE" crimescene
+  382  ls
+  383  cd interviews
+  384  ls
+  385  head -n 173 Streets/Mattapan-Street | tail -n1
+  386  cd ..
+  387  ls
+  388  cd ..
+  389  ls
+  390  cat hint5
+  391  mystery
+  392  head -n 173 streets/Mattapan_Street | tail -n 1
+  393  cd interviews
+  394  cat interview-9437737
+  395  grep "Honda" vehicles
+  396  ls
+  397  cd..
+  398  cd ..
+  399  ls
+  400  cd vehicles
+  401  cat vehicles
+  402  grep "Honda" vehicles
+  403  grep "Blue" vehicles
+  404  head
+  405  ls
+  406  cd ga
+  407  ls
+  408  cd command-line-murder-mystery
+  409  ls
+  410  mystery
+  411  ls
+  412  grep "L337" vehicles
+  413  cat vehicles
+  414  grep "Honda" | "Blue" | "L337" vehicles
+  415  ls
+  416  cd ga
+  417  ls
+  418  cd command-line-murder-mystery
+  419  ls
+  420  cd mystery
+  421  ls
+  422  cd ..
+  423  cat instructions
+  424  cat cheatsheet.pdf
+  425  ls
+  426  cd mystery
+  427  ls
+  428  ls -a
+  429  ls -l
+  430  cd ..
+  431  cat hint7
+  432  cd mystery
+  433  grep -A 5 "L337" mystery/vehicles
+  434  ls
+  435  grep -A 5 "L337" mystery/vehicles
+  436  cd ..
+  437  grep -A 5 "L337" mystery/vehicles
+  438  cd ..
+  439  ls
+  440  cd command-line-murder-mystery
+  441  ls
+  442  cat hint8
+  443  cd mystery
+  444  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
+  445  cd .
+  446  cd ..
+  447  ls
+  448  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
+  449  cd mystery
+  450  ls
+  451  cd memberships
+  452  ls
+  453  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
+  454  cat Fitness_Galaxy AAA United_MileagePlus | grep ""
+  455  cat Fitness_Galaxy AAA United_MileagePlus | grep "Annabel"
+  456  ls
+  457  cd ..
+  458  ls
+  459  cat crimescene
+  460  ls
+  461  cd ga
+  462  ls
+  463  cd com
+  464  cd command-line-murder-mystery
+  465  ls
+  466  cd mystery
+  467  grep "CLUE" crimescene
+  468  ls
+  469  grep "Annabel" people
+  470  ls
+  471  cd interviews
+  472  head -n 40 streets/Hart_Place | tail -n 1
+  473  cd ..
+  474  head -n 40 streets/H\nart_Place | tail -n 1
+  475  ls
+  476  cd ..
+  477  ls
+  478  head -n 40 streets/H\nart_Place | tail -n 1
+  479  ls
+  480  cd mystery
+  481  ls
+  482  cd interviews
+  483  head -n 40 streets/Hart_Place | tail -n 1
+  484  head -n 40 streets/art_Place | tail -n 1
+  485  ls
+  486  cd ..
+  487  ls
+  488  grep "Annabel" people
+  489  cd ..
+  490  ls
+  491  cat hint5
+  492  head -n 173 streets/Mattapan_Street | tail -n 1
+  493  cd
+  494  cd
+  495  ls
+  496  cd ga
+  497  cd command-line-murder-mystery
+  498  ls
+  499  cd mystery
+  500  cd interviews
+  501  head -n 173 streets/Mattapan_Street | tail -n 1
+  502  cd ..
+  503  head -n 173 streets/Mattapan_Street | tail -n 1
+  504  head -n 173 streets/Buckingham_Place | tail -n 1
+  505  head -n 40 streets/Hart_Place | tail -n 1
+  506  ls
+  507  cd interviews
+  508  ls
+  509  interview-47246024
+  510  cat interview-47246024
+  511  ls
+  512  cd ..
+  513  ls
+  514  head -n 40 streets/Hart_Place |\n tail -n 1
+  515  head -n 179 streets/Buckingham_Place | tail -n 1
+  516  ls
+  517  cd interviews
+  518  cat interview-699607
+  519  cd ..
+  520  ls
+  521  grep -A 4 L337 vehicles | grep -A 3 Honda | grep -A 2 Blue
+  522  ls
+  523  grep "Aron Pilhofer" people
+  524  grep "Jeremy Bowers" people
+  525  grep "Joe Germuska" people
+  526  ls
+  527  cd memberships
+  528  ls
+  529  cat AAA | grep -f Delta_SkyMiles > ../members
+  530  cd ..
+  531  grep Joe members
+  532  grep Jeremy members
+  533  ls
+  534  mkdir solution.txt
+  535  ls
+  536  history
+  537  echo solution.txt > Jeremy Bowers
+  538  ls
+  539  cd solution.txt
+  540  cat solution.txt
+  541  ls
+  542  echo > Jeremy Bowers
+  543  ls
+  544  touch Jeremy_Bowers
+  545  ls
+  546  cat solution.txt
+  547  cd ..
+  548  cat solution.txt
+  549  cd ..
+  550  cd ../..
+  551  ls
+  552  cd ga
+  553  ls
+  554  cd command-line-murder-mystery
+  555  ls
+  556  cd mystery
+  557  ls
